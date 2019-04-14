@@ -14,14 +14,15 @@ url: "https://onlinecorpus.com"
 permalink: /:year/:month/:day/:title/
 
 # other links
-twitter_username: georgi_spasov__
+facebook_username: onlinecorpus
+twitter_username: onlinecorpus
 email: admin@onlinecorpus.com
-linkedIn_username: georgi-spasov-
+linkedIn_username: online-corpus
 dribbble_username:
 
 description_footer:  Online Corpus Industries 2019&copy; All rights reserved<br> 
 
-disqus_shortname: georgispasov
+disqus_shortname: onlinecorpus
 
 google_analytics_id: UA-72449510-4 
 
