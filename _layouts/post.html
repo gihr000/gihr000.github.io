@@ -3,18 +3,20 @@ layout: default
 ---
 
 <div class="page clearfix" post>
-    <div class="left">
+    <div itemscope itemtype="http://schema.org/Article" class="left">
         <h1>{{page.title}}</h1>
         <div class="label">
 
-            <div class="label-card">
+            <div itemprop="datePublished" content={{ page.date | date:"%F" }} class="label-card">
                 <i class="fa fa-calendar"></i>{{ page.date | date: "%F" }}
             </div>
-
-            <div class="label-card">
-                {% if page.author %}<i class="fa fa-user"></i>{{ page.author }}
-                {% endif %}
-            </div>
+            
+            <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+                <div itemprop="name" class="label-card">
+                    {% if page.author %}<i class="fa fa-user"></i>{{ page.author }}
+                    {% endif %}
+                </div>
+            </span>
 
             <div class="label-card">
                 {% if page.meta %}<i class="fa fa-key"></i>{{ page.meta }}  {% endif %}

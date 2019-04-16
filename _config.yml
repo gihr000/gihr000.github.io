@@ -8,7 +8,7 @@
 # Site settings
 title: Online Corpus
 
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of the site, e.g. /blog
 url: "https://onlinecorpus.com"
 
 permalink: /:year/:month/:day/:title/
