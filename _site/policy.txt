@@ -1,0 +1,61 @@
+Privacy and Security Policy
+
+Letter from our founders
+
+As users of the internet, we care about privacy just like you. And as fellow human beings, we think you deserve to know exactly what you can expect from your Email Protector experience. Before you read our privacy policy, we’d first like to tell you how we think about privacy in simple terms.
+
+We do not sell personal information about anyone who uses our services. Ever. That would not be fair.
+
+We created Email Protector in 2019 because the existing model for online web security does not work well for most people. Often times people fall victim to not so technically advanced, but persistent malicious actors, who exploit pepople's very own sence of moral and duty.
+
+So we decided to build a community that uses the collective insights of our users and members to power tools that allow everyone to do their job smarter, together. Similar to applications that enable commuters to cut through traffic and save time, which are powered by their users and members providing information about speed and congestion, Email Protector users share real-time data about malicious actors who try to take advantage of one's negligence. Making a transaction to someone who pretends to be your business partner often times relies on people being tricked into sending money to another payment address. Our top priority is to have you not fall a victim.
+
+We understand this community network approach is not for everyone and that is okay.
+
+We help people who have successful businesses and lead tons of corresponcence a day, because verification of email data could often take more time than one can spare.
+
+Our stance on privacy is simple: We will be transparent with what data we collect and how we use it to save you time and money, and you can decide if you are good with that.
+
+If this sounds fair, we would like to help you earn more by staying safe!
+
+Georgi Spasov
+CEO, Online Corpus Industries
+
+P.S. If you have any questions or comments, we are always listening at privacy@onlinecorpus.com.
+
+Accepting the Privacy Policy
+This privacy policy ('Privacy Policy') explains how Online Corpus Industries ('we' or 'our') collects and processes information from members and users of the website, software applications and other online services we provide (collectively 'Products of Corpus'). The Products of Corpus include, but are not limited to, the Email Protector extension for desktop web browsers (the 'Extension'), and the web applications located at www.onlinecorpus.com (the 'Websites').
+
+The Privacy Policy sets out the basis on which we will process information we collect from you, or that you provide to us, in connection with your use of the Website and Email Protector’s products regardless of how you access or use them. Please read this Privacy Policy carefully so that you understand your rights in relation to how we use and process information that you share and that we collect.
+
+Use of information shared and collected:
+In order to deliver Online Corpus products to its users and members, to improve those products, and to create new products and services to help users and members save time and money, Email Protector may or may not collect click metrics and other metadata, that will not personalize you as a user. The click stream or other metadata will not include personal informaion, content of messages or forms that you submit via the Extension.
+
+Information you share:
+When you become a member of 'Online Corpus' or install the Extension you share a limited amount of information. In accordance to the national legislation, we do not explicitly collect customers names, emails, personalization information or other data that may individualize you as a content user.
+
+Information we collect:
+The Extension has specific business logic. Users may "trust" specific emails that they store locally within their applicaiton. Whenever there is an email that falls into a specific criteria match, and is marked as malicious for that purpose, the user shares the malicious email with the company for future work and protection of other customers. In this scope, we will not collect message informaion, meta informaion such as timestamps, message attachments and browser informaion.
+Click-stream events in the context of a browser may or may not be collected whenever there is a call to a specific function of the Extension. Such click-stream events will not include user actions in the browser, but rather will be limited to the presented application made inside the container. We may collect data how often a user clicks on the Extension menu, submenu, buttons, forms and other data that is presented by the Extension. This will not include browser click-stream action as well as other events that occur in the browser.
+We will not collect IP addresses, MAC addresses or any kind of data that may individualize you as a person.
+
+Additional privacy and security information:
+Users and members residing in the European Economic Area:
+We are a private company, established in Romania. Our address is Bulevardul General Vasile Milea 4, București, Romania and our email is privacy@onlinecorpus.com.
+
+Your rights: 
+To exercise any of these rights above, please contact us at privacy@onlinecorpus.com. Please note that these rights are limited to the operability of the Extension.
+
+Financial:
+The Extension is distributed as a Freemium product. You will be able to use the product with its full capacity for a limited time period. A prolonged use, however will be available with the purchase of the Extension.
+After you purchase the extension, you will enjoy future updates and upgrades, additional website support and many new features, wich you can use whenever you log in your profile! 
+
+Access and portability:
+We do not collect personal information, and every specific user should turn to the Applicaiton Store / Extension Store service provider, as they hold user specific data.
+We take great precaution to protect and safeguard our users and our members private information.
+
+Changes:
+We will continue to update our policies and practices as needed. As such, our Privacy Policy will be updated from time to time. We will notify you of any changes to our Privacy Policy by posting any changes here.
+
+Contact Us:
+If you have any questions about our privacy policies and practice, please contact us at privacy@onlinecorpus.com.
