@@ -5,11 +5,12 @@ categories: onlinecorpus
 tags: cybercrime onlinecorpus
 author: Georgi Spasov
 keywords: 2019, onlinecorpus, cybercrime, hacking, income
+metaDescription: War against cyber criminals - Online Corpus key values
 ---
 {:toc}
 
-<h2 itemprop="articleSection" class="h2-heading">According to Europol cybercrime investigators, income from cybercrime and cybercrime related activities in some European countries, has surpassed the income from drug trafficking and drug distribution for 2018</h2>  
-
+<h2 itemprop="articleSection" class="h2-heading">War against cyber criminals - What are the key values of Online Corpus</h2>  
+<p></p>
 
 <span itemprop='image' itemscope itemtype='http://schema.org/ImageObject' id="business-image">
     <img class="img-fluid" itemprop="url" src="https://onlinecorpus.com/img/cybercrime-hacking-income.jpg" alt="Cybercrime income picture">
@@ -42,4 +43,3 @@ Knowing the nature of the 'hackers', we knew what we should to in order to help 
 <p>Yet, 'hackers' are always on the move and in the lookout for new victims. 
 That is where our tools can help you be one step ahead of them, and even if your correspondence gets compromised, you will be alerted.
 <p>As every aspect of our live gets tightly coupeled with the Internet, and our online presence gains more and more significance, we have to come to the realization that cyber security tools and following best practices guidelines will be the things that guarantee our future well-being.
-</span>
