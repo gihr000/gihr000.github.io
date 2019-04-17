@@ -4,7 +4,6 @@ title:  "The mission of Online Corpus"
 categories: onlinecorpus
 tags: cybercrime onlinecorpus
 author: Georgi Spasov
-keywords: 2019, onlinecorpus, cybercrime, hacking, income
 metaDescription: War against cyber criminals - Online Corpus key values
 ---
 {:toc}
