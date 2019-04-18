@@ -8,7 +8,7 @@ metaDescription: War against cyber criminals - Online Corpus key values
 ---
 {:toc}
 
-<h2 itemprop="articleSection" class="h2-heading">War against cyber criminals - What are the key values of Online Corpus</h2>  
+<h2 itemprop="articleSection" class="h2-heading">War against cyber criminals - Online Corpus key values</h2>  
 <p></p>
 
 <span itemprop='image' itemscope itemtype='http://schema.org/ImageObject' id="business-image">
