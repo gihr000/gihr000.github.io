@@ -1,15 +1,15 @@
 <header id="top">
     <div class="wrapper">
-        <a href="{{ site.baseurl }}/" class="brand">{{ site.title }}</a>
+        <a title="Base URL" href="{{ site.baseurl }}/" class="brand">{{ site.title }}</a>
         <small>{{site.brief-intro}}</small>
         <button id="headerMenu" class="menu"><i class="fa fa-bars"></i></button>
         <nav id="headerNav">
             <ul>
                 <li>
                     {% if page.url == '/' %}
-                    <a class="active" href="{{site.baseurl}}/">
+                    <a title="Active URL" class="active" href="{{site.baseurl}}/">
                         {% else %}
-                    <a href="{{site.baseurl}}/">
+                    <a title="Current URL" href="{{site.baseurl}}/">
                     {% endif %}
                         <i class="fa fa-home"></i>Home
                     </a>
@@ -19,9 +19,9 @@
                     {% if my_page.type == 'page' %}
                     <li>
                         {% if my_page.url == page.url %}
-                        <a class="active" href="{{ my_page.url | prepend: site.baseurl }}">
+                        <a title="Active url" class="active" href="{{ my_page.url | prepend: site.baseurl }}">
                             {% else %}
-                        <a href="{{ my_page.url | prepend: site.baseurl }}">
+                        <a title="Current page" href="{{ my_page.url | prepend: site.baseurl }}">
                         {% endif %}
                             <i class="fa fa-{{my_page.icon}}"></i>{{ my_page.title }}
                         </a>

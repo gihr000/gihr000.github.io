@@ -48,7 +48,7 @@ layout: default
                         <ul>
                         {% endif %}
                         <li class="relatedPost">
-                            <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}
+                            <a title="Base url" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}
                             {% if post.series %}
                                 (Series: {{ post.series }})
                             {% endif %}
@@ -82,12 +82,11 @@ layout: default
                 </div>
                 <ul id="content-side" class="content-ul">
                     {% if hasSimilar.size > 0 %}
-                    <li><a href="#similar_posts">Similar Posts</a></li>
+                    <li><a title="Similar posts" href="#similar_posts">Similar Posts</a></li>
                     {% endif %}
-                    <li><a href="#comments">Comments</a></li>
+                    <li><a title="Comments" href="#comments">Comments</a></li>
                 </ul>
             </div>
-            <!-- 其他div框放到这里 -->
             <!-- <div class="side">bbbb</div> -->
         </div>
     </div>

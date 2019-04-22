@@ -42,4 +42,4 @@ The links could be deceiving, the text of the hyperlink could display www.bankof
 
 <b>So, we got the basics. Now what?<b>
 
-<a target="_blank" href="https://onlinecorpus.com/2019/04/23/everything-you-should-know-phishing-campaigns/">In the next article</a> we're going to cover the ways a phishing campaign is being organized and executed.  
+<a title="Everything you should know about phishing campaigns" target="_blank" href="https://onlinecorpus.com/2019/04/23/everything-you-should-know-phishing-campaigns/">In the next article</a> we're going to cover the ways a phishing campaign is being organized and executed.  

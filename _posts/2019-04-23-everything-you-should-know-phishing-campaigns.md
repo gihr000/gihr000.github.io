@@ -26,6 +26,7 @@ Such a preparation has a lot of prerequites.
 
 
 <span itemprop="articleBody">
+Bore continuing on, have you checked out the article that goes about <a title="Cyber attacks and cybercrime: Preventing phishing" href="https://onlinecorpus.com/2019/04/22/cyber-attacks-and-cybercrime-preventing-phishing/">what phishing is and how to prevent it?</a> Check it out if you havent'.
 We're not going to dive into some old cases of mine, as the technical details are overwhelming and this blogpost will be even hardly readable. I'd rather shed a light on what the Internet folks do.
 To be fair, there is a gazillion ways to launch a campaign - and often times it occurs as spontaneous as it sounds. Of course, the results of such a campaign will be close to zero and the - withough previous planning a campaign such as this will be a total failure.
 The <b>fruit bearing</b> way that hackers often times adhere to, is to launch a campaign whenever they have gained enough data like names, emails, phone numbers. But that's all random data - a phishing campaign is nothing more than collecting some data or even buying it and then using it for malicious purposes. During those campaigns, mailcious actors have no real idea who they will compromise. That's the main difference with wailing or spear phishing.
