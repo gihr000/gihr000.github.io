@@ -5,19 +5,97 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 18 Apr 2019 21:07:46 +0300</pubDate>
-    <lastBuildDate>Thu, 18 Apr 2019 21:07:46 +0300</lastBuildDate>
+    <pubDate>Tue, 23 Apr 2019 00:46:48 +0300</pubDate>
+    <lastBuildDate>Tue, 23 Apr 2019 00:46:48 +0300</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Everything you should know about phishing campaigns</title>
+        <description>
+&lt;h2 itemprop=&quot;articleSection&quot; class=&quot;h2-heading&quot;&gt;Phishing campaigns - how do hackers plan and execute them?&lt;/h2&gt;
+
+
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-md-12&quot;&gt;
+        &lt;span itemprop=&quot;image&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot; id=&quot;business-image&quot;&gt;
+            &lt;img class=&quot;img-fluid&quot; itemprop=&quot;url&quot; src=&quot;https://onlinecorpus.com/img/phishing-campaign-criminal.jpg&quot; alt=&quot;Phishing campaigns - plan and execution picture&quot; /&gt;
+        &lt;/span&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+Real hackers plan every single step very carefully. What’s the trick, you’ll ask? Well, experience and common knowledge go hand in hand. And since hackers usually specialize at one area at a time, it’s really hard to know when one’s knowledge is sufficient enough and skills are technically advanced enough to conduct such an attack. Usually 95% of all spammers are just skids (script-kiddies are wannabe hackers with insuficient programming and systems knowledge). Yes, it may happen so that they catch a fish or two, but the really malicious actors are the one preparing months before a big hit.
+Such a preparation has a lot of prerequites.
+
+</description>
+        <pubDate>Tue, 23 Apr 2019 00:00:00 +0300</pubDate>
+        <link>http://localhost:4000/2019/04/23/everything-you-should-know-phishing-campaigns/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/04/23/everything-you-should-know-phishing-campaigns/</guid>
+        
+        <category>phishing</category>
+        
+        <category>campaign</category>
+        
+        <category>data</category>
+        
+        <category>privacy</category>
+        
+        
+        <category>phishing</category>
+        
+        <category>cybercrime</category>
+        
+      </item>
+    
+      <item>
+        <title>Cyber attacks and cybercrime: Preventing phishing</title>
+        <description>
+&lt;h2 itemprop=&quot;articleSection&quot; class=&quot;h2-heading&quot;&gt;Phishing can't be classified as a real cyber crime, right?&lt;/h2&gt;
+
+
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-md-12&quot;&gt;
+        &lt;span itemprop=&quot;image&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot; id=&quot;business-image&quot;&gt;
+            &lt;img class=&quot;img-fluid&quot; itemprop=&quot;url&quot; src=&quot;https://onlinecorpus.com/img/phishing-email-data-money.jpg&quot; alt=&quot;Cybercrime phishing data and money&quot; /&gt;
+        &lt;/span&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+This article is dedicated to the most commonly used and most preferred way to infiltrate any system – phishing. Perhaps you’ve heard of the phrase &lt;i&gt;“You give a poor man a fish, and you feed him for a day, you teach him to phish, you give him… you give him…”&lt;/i&gt; – well the whole world actually. 
+Phishing is a type of cyber attack, that uses the weakest link in Internet – the human. Phishing is the most successful social engineering attack to extract user data – login credentials, user names, passwords, email addresses, as well as payment data and other valuable information.
+
+</description>
+        <pubDate>Mon, 22 Apr 2019 00:00:00 +0300</pubDate>
+        <link>http://localhost:4000/2019/04/22/cyber-attacks-and-cybercrime-preventing-phishing/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/04/22/cyber-attacks-and-cybercrime-preventing-phishing/</guid>
+        
+        <category>cybercrime</category>
+        
+        <category>preventing</category>
+        
+        <category>phishing</category>
+        
+        <category>data</category>
+        
+        
+        <category>phishing</category>
+        
+        <category>cybercrime</category>
+        
+      </item>
     
       <item>
         <title>The mission of Online Corpus</title>
         <description>
-&lt;h2 itemprop=&quot;articleSection&quot; class=&quot;h2-heading&quot;&gt;War against cyber criminals - What are the key values of Online Corpus&lt;/h2&gt;
+&lt;h2 itemprop=&quot;articleSection&quot; class=&quot;h2-heading&quot;&gt;War against cyber criminals - Online Corpus key values&lt;/h2&gt;
 
 
-&lt;span itemprop=&quot;image&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot; id=&quot;business-image&quot;&gt;
-    &lt;img class=&quot;img-fluid&quot; itemprop=&quot;url&quot; src=&quot;https://onlinecorpus.com/img/cybercrime-hacking-income.jpg&quot; alt=&quot;Cybercrime income picture&quot; /&gt;
-&lt;/span&gt;
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-md-12&quot;&gt;
+        &lt;span itemprop=&quot;image&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot; id=&quot;business-image&quot;&gt;
+             &lt;img class=&quot;img-fluid&quot; itemprop=&quot;url&quot; src=&quot;https://onlinecorpus.com/img/cybercrime-hacking-income.jpg&quot; alt=&quot;Cybercrime income picture&quot; /&gt;
+        &lt;/span&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
 
 Ever wondered how people got as far as they are? Well, we did. 
 The never-ending strive to know how things function the way they do made us discover very interesting things. Judging by how fast the world is changing, the next couple of decades will be one hell of a rollercoaster - technologically, politically and economically.

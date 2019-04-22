@@ -3,7 +3,7 @@ layout: post
 title:  "The mission of Online Corpus"
 categories: onlinecorpus
 tags: cybercrime onlinecorpus
-author: Georgi Spasov
+author: Ivan Pochileev
 metaDescription: War against cyber criminals - Online Corpus key values
 ---
 {:toc}
@@ -11,9 +11,13 @@ metaDescription: War against cyber criminals - Online Corpus key values
 <h2 itemprop="articleSection" class="h2-heading">War against cyber criminals - Online Corpus key values</h2>  
 <p></p>
 
-<span itemprop='image' itemscope itemtype='http://schema.org/ImageObject' id="business-image">
-    <img class="img-fluid" itemprop="url" src="https://onlinecorpus.com/img/cybercrime-hacking-income.jpg" alt="Cybercrime income picture">
-</span>
+<div class="row">
+    <div class="col-md-12">
+        <span itemprop='image' itemscope itemtype='http://schema.org/ImageObject' id="business-image">
+             <img class="img-fluid" itemprop="url" src="https://onlinecorpus.com/img/cybercrime-hacking-income.jpg" alt="Cybercrime income picture">
+        </span>
+    </div>
+</div>
 
 
 Ever wondered how people got as far as they are? Well, we did. 
