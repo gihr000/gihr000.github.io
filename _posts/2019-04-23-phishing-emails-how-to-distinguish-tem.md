@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Distinguishing phishing emails from real emails"
-categories: phishing cybercrime
-tags: phishing campaign data privacy
+categories: phishing cybercrime email
+tags: phishing email data privacy
 author: Georgi Spasov
 metaDescription: How to distinguish a phishing email from real emails
 ---
