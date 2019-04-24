@@ -23,7 +23,7 @@ metaDescription: "Online Corpus - cyber security solutions, counter hacking and 
                       correspondence and thus, one way or another, gain access to everything that you try so hard to keep away from them - <strong>your money.</strong></p>
                       <p itemprop="brand" itemscope itemtype="http://schema.org/Brand"><strong>This is where our knowledge can help you.</strong> By installing <span itemprop="name">Email Protector</span>, you can be sure that the email correspondence you're leading is with the 
                         <strong>people you've already trusted.</strong></p> 
-                    <p>Our Chrome extension provides new and revolutionary means to keep cyber criminals out of your correspondence. No more phishing or man in the email attacks. This extension provides you with the virtual security that you need. <strong><a itemprop="url" href="/2019/04/14/online-corpus-mission/">Click here</a></strong> to read more about Email Protector!</p>
+                    <p>Our Chrome extension provides new and revolutionary means to keep cyber criminals out of your correspondence. No more phishing or man in the email attacks. This extension provides you with the virtual security that you need. <strong><a title="Online Corpus mission" itemprop="url" href="/2019/04/14/online-corpus-mission/">Click here</a></strong> to read more about Email Protector!</p>
                 </div>
               </div>
           </section>
@@ -48,7 +48,7 @@ metaDescription: "Online Corpus - cyber security solutions, counter hacking and 
                       <meta itemprop="name" content="Online Corpus">
                     </div>
                   <h2>
-                    <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"><span itemprop="headline">{{ post.title }}</span></a>
+                    <a title="Post link" class="post-link" href="{{ post.url | prepend: site.baseurl }}"><span itemprop="headline">{{ post.title }}</span></a>
                   </h2>
                   <div class="label">
                       <div class="label-card">
@@ -79,7 +79,7 @@ metaDescription: "Online Corpus - cyber security solutions, counter hacking and 
                       {{post.excerpt}}
                   </div>
                   <div class="read-all">
-                      <a itemprop="url" href="{{ post.url | prepend: site.baseurl }}"><i class="fa fa-newspaper-o"></i>Read All</a>
+                      <a title="Read all" itemprop="url" href="{{ post.url | prepend: site.baseurl }}"><i class="fa fa-newspaper-o"></i>Read All</a>
                   </div>
                   <hr>
                 </span>
@@ -93,16 +93,16 @@ metaDescription: "Online Corpus - cyber security solutions, counter hacking and 
         <!-- Pagination links -->
         <div class="pagination">
           {% if paginator.previous_page %}
-            <a href="/index.html" class="previous"><i class="fa fa-angle-double-left"></i></a>
-            <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="previous"><i class="fa fa-angle-left"></i></a>
+            <a title="Previous pages" href="/index.html" class="previous"><i class="fa fa-angle-double-left"></i></a>
+            <a title="Previous page" href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="previous"><i class="fa fa-angle-left"></i></a>
           {% else %}
             <span class="previous disable"><i class="fa fa-angle-double-left"></i></span>
             <span class="previous disable"><i class="fa fa-angle-left"></i></span>
           {% endif %}
           <span class="page_number ">{{ paginator.page }}/{{ paginator.total_pages }}</span>
           {% if paginator.next_page %}
-            <a href="{{ paginator.next_page_path }}" class="next"><i class="fa fa-angle-right"></i></a>
-            <a href="{{ site.baseurl }}/page{{ paginator.total_pages }}" class="next"><i class="fa fa-angle-double-right"></i></a>
+            <a title="Next pages" href="{{ paginator.next_page_path }}" class="next"><i class="fa fa-angle-right"></i></a>
+            <a title="Next page" href="{{ site.baseurl }}/page{{ paginator.total_pages }}" class="next"><i class="fa fa-angle-double-right"></i></a>
           {% else %}
             <span class="next disable"><i class="fa fa-angle-right"></i></span>
             <span class="next disable"><i class="fa fa-angle-double-right"></i></span>
@@ -119,7 +119,7 @@ metaDescription: "Online Corpus - cyber security solutions, counter hacking and 
                 </div>
                 <ul class="content-ul" recent>
                     {% for post in site.posts offset: 0 limit: 10  %}
-                        <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+                        <li><a title="Title" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
                     {% endfor %}
                 </ul>
             </div>
@@ -133,7 +133,7 @@ metaDescription: "Online Corpus - cyber security solutions, counter hacking and 
                 <ul class="content-ul" cate>
                     {% for category in site.categories %}
                     <li>
-                        <a href="{{ root_url }}/{{ site.category_dir }}#{{ category | first }}" class="categories-list-item" cate="{{ category | first }}">
+                        <a title="Category" href="{{ root_url }}/{{ site.category_dir }}#{{ category | first }}" class="categories-list-item" cate="{{ category | first }}">
                             <span class="name">
                                 {{ category | first }}
                             </span>
@@ -143,7 +143,7 @@ metaDescription: "Online Corpus - cyber security solutions, counter hacking and 
                     {% endfor %}
                 </ul>
             </div>
-            <!-- 其他div框放到这里 -->
+            <!-- side -->
             <div class="side">
                 <div>
                     <i class="fa fa-tags"></i>
@@ -183,7 +183,7 @@ metaDescription: "Online Corpus - cyber security solutions, counter hacking and 
                       {% else %}
                         {% assign color = 8 | minus: base %}
                       {% endif %}
-                      <a href="{{ root_url }}/{{ site.tag_dir }}#{{ tag[0] }}" style="font-size: {{ size }}pt; color: #{{ color }}{{ color }}{{ color }};">{{ tag[0] }}</a>
+                      <a title="Tag" href="{{ root_url }}/{{ site.tag_dir }}#{{ tag[0] }}" style="font-size: {{ size }}pt; color: #{{ color }}{{ color }}{{ color }};">{{ tag[0] }}</a>
                     {% endfor %}
                 </div>
             </div>

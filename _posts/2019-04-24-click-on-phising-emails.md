@@ -31,7 +31,7 @@ You trust your friends, right? And if your friend uses the email address <b>samp
 Look into both emails and check if you can find something wrong.
 That’s right. I’ve switched the places of two characters. I can tell you, a lot of people fell for this and clicked on the attached extension.
 
-Hackers love this. Misplacing one character in the domain name or in the username is one of the most common tactics hackers utilize to do <a title="Spear phishing" href= "https://onlinecorpus.com/2019/04/23/spear-phishing-attacks/">spear phishing</a> campaigns or whaing.
+Hackers love this. Misplacing one character in the domain name or in the username is one of the most common tactics hackers utilize to do <a title="Spear phishing" href="https://onlinecorpus.com/2019/04/23/spear-phishing-attacks/">spear phishing</a> campaigns or whaing.
 It’s a low risk, high profit strategy that, if executed correctly, gives a lot of leverage to the hackers.
 
 This kind of attack is almost uncatchable. Imagine you have an inbox full of a hundred emails per day. And you’ve got to verify every time that the email address is the correct one. That’s complete madness. A waste of time.
