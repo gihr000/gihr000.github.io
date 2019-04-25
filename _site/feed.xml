@@ -5,8 +5,8 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 26 Apr 2019 00:09:15 +0300</pubDate>
-    <lastBuildDate>Fri, 26 Apr 2019 00:09:15 +0300</lastBuildDate>
+    <pubDate>Fri, 26 Apr 2019 00:40:48 +0300</pubDate>
+    <lastBuildDate>Fri, 26 Apr 2019 00:40:48 +0300</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -42,6 +42,35 @@ So on one hand &lt;a title=&quot;All you need to know about phishing&quot; href=
         <category>whaling</category>
         
         <category>cybercrime</category>
+        
+      </item>
+    
+      <item>
+        <title>Email protector – the browser extension that keeps hackers away</title>
+        <description>
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-md-12&quot;&gt;
+        &lt;span itemprop=&quot;image&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot; id=&quot;business-image&quot;&gt;
+            &lt;img class=&quot;img-fluid&quot; itemprop=&quot;url&quot; src=&quot;https://onlinecorpus.com/img/email-protector-banner-hackers-away.jpg&quot; alt=&quot;Keep hackers away from your inbox - Email Protector&quot; /&gt;
+        &lt;/span&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+As we’ve already mentioned and discussed &lt;a title=&quot;What is phishing&quot; href=&quot;https://onlinecorpus.com/2019/04/22/cyber-attacks-and-cybercrime-preventing-phishing/&quot;&gt; what phishing attacks are, &lt;a title=&quot;Phishing campaigns&quot; href=&quot;https://onlinecorpus.com/2019/04/23/everything-you-should-know-phishing-campaigns/&quot;&gt; and how are they planned in campaigns&lt;/a&gt;, how &lt;a title=&quot;Spear phishing&quot; href=&quot;https://onlinecorpus.com/2019/04/23/spear-phishing-attacks/&quot;&gt;spear-phishing&lt;/a&gt; and &lt;a title=&quot;Whaling attacks&quot; href=&quot;https://onlinecorpus.com/2019/04/25/whaling-big-fish/&quot;&gt;whaling attacks&lt;/a&gt; rob hard-working people, just because hackers exploit the very human nature, now I want to shed some light on another problem – &lt;b&gt;until now there was no single tool that could help you and protect you while you access and use your email daily.&lt;/b&gt;&lt;/a&gt;
+
+</description>
+        <pubDate>Thu, 25 Apr 2019 00:00:00 +0300</pubDate>
+        <link>http://localhost:4000/2019/04/25/email-protector/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/04/25/email-protector/</guid>
+        
+        <category>email-protector</category>
+        
+        <category>email</category>
+        
+        
+        <category>email-protector</category>
+        
+        <category>email</category>
         
       </item>
     
