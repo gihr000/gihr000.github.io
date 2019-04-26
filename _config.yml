@@ -7,7 +7,8 @@
 
 # Site settings
 title: Online Corpus
-metaTitle: Online Corpus | Read all about email security, data privacy, phishing emails and cyber criminals
+metaTitle: Online Corpus | Cyber security solutions and email protection
+
 baseurl: "" # the subpath of the site, e.g. /blog
 url: "https://onlinecorpus.com"
 
