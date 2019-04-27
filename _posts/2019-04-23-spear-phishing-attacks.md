@@ -5,6 +5,10 @@ categories: phishing spear-phishing
 tags: cybercrime phishing data
 author: Ivan Pochileev
 metaDescription: Spear phishing attacks - the most dangerous form of phishing
+social-article-url: https://onlinecorpus.com/2019/04/23/spear-phishing-attacks
+social-article-title: Spear phishing attacks - the most dangerous form of phishing
+social-article-image: https://onlinecorpus.com/img/spear-phishing-drawing.jpg
+social-article-type: article
 ---
 {:toc}
 

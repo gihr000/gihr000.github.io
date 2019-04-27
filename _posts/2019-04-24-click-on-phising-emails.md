@@ -5,6 +5,10 @@ categories: phishing cybercrime email
 tags: phishing email data privacy
 author: Georgi Spasov
 metaDescription: How hackers make you click on phishing emails
+social-article-url: https://onlinecorpus.com/2019/04/24/click-on-phishing-emails
+social-article-title: How hackers make you click on phishing emails
+social-article-image: https://onlinecorpus.com/img/click-on-phishing-emails.jpg
+social-article-type: article
 ---
 {:toc}
 <h2 itemprop="articleSection" class="h2-heading">Hackers and their favourite phishing tactics</h2>  

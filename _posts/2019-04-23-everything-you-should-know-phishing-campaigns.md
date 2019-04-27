@@ -5,6 +5,10 @@ categories: phishing cybercrime
 tags: phishing campaign data privacy
 author: Georgi Spasov
 metaDescription: Everything you should know about phishing campaigns
+social-article-url: https://onlinecorpus.com/2019/04/22/everything-you-should-know-phishing-campaigns
+social-article-title: Everything you should know about phishing campaigns
+social-article-image: https://onlinecorpus.com/img/phishing-campaign-criminal.jpg
+social-article-type: article   
 ---
 {:toc}
 

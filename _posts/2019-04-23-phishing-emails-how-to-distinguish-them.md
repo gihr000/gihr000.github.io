@@ -5,6 +5,10 @@ categories: phishing cybercrime email
 tags: phishing email data privacy
 author: Georgi Spasov
 metaDescription: How to distinguish a phishing email from real emails
+social-article-url: https://onlinecorpus.com/2019/04/23/phishing-emails-how-to-distinguish-them
+social-article-title: Everything you should know about phishing campaigns
+social-article-image: https://onlinecorpus.com/img/phishing-emails-distinguish.jpg
+social-article-type: article
 ---
 {:toc}
 <h2 itemprop="articleSection" class="h2-heading">Detailed guide on distinguishing phishing emails from real emails</h2>  
@@ -56,4 +60,3 @@ The sending server might also give some information. We could check what we know
 Only when you examine an email message closely, can you fully understand what was going on when the email was sent. But verifying this information by hand every single time there is a new message in the inbox, is a tedious job.
 If only there was a way to automate this check, regardless of the platform.. Well, there is! And our tool is free. You can read more about it here and download the chrome extension for free from the chrome web store.
 Only then can you be sure that even if your email provider is not secure, you will minimize the risk by using the best free tools in the market.
- 

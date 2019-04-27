@@ -5,6 +5,10 @@ categories: whaling cybercrime
 tags: whaling email data privacy
 author: Ivan Pochileev
 metaDescription: Whaling - going for the big fish. What do we know about it?
+social-article-url: https://onlinecorpus.com/2019/04/25/whaling-big-fish
+social-article-title: Whaling - going for the big fish. What do we know about it?
+social-article-image: https://onlinecorpus.com/img/whaling.jpg
+social-article-type: article
 ---
 {:toc}
 <h2 itemprop="articleSection" class="h2-heading">How do cyber criminals use whaling. What is whaling?</h2>  

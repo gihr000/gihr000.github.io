@@ -5,6 +5,10 @@ categories: phishing cybercrime
 tags: cybercrime preventing phishing data
 author: Georgi Spasov
 metaDescription: Cyber attacks and cybercrime:- Preventing phishing
+social-article-url: https://onlinecorpus.com/2019/04/22/cyber-attacks-and-cybercrime-preventing-phishing
+social-article-title: Cyber attacks and cybercrime:- Preventing phishing
+social-article-image: https://onlinecorpus.com/img/phishing-email-data-money.jpg
+social-article-type: article   
 ---
 {:toc}
 

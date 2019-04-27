@@ -5,6 +5,10 @@ categories: email-protector email
 tags: email-protector email
 author: Georgi Spasov
 metaDescription: Email protector – the browser extension that keeps hackers away
+social-article-url: https://onlinecorpus.com/2019/04/25/email-protector
+social-article-title: Email protector – the browser extension that keeps hackers away
+social-article-image: https://onlinecorpus.com/img/email-protector-banner-hackers-away.jpg
+social-article-type: article
 ---
 {:toc}
 

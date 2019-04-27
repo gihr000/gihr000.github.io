@@ -5,12 +5,14 @@ categories: onlinecorpus
 tags: cybercrime onlinecorpus
 author: Ivan Pochileev
 metaDescription: War against cyber criminals - Online Corpus key values
+social-article-url: https://onlinecorpus.com/2019/04/14/online-corpus-mission
+social-article-title: The mission of Online Corpus
+social-article-image: https://onlinecorpus.com/img/cybercrime-hacking-income.jpg
+social-article-type: article    
 ---
 {:toc}
-
 <h2 itemprop="articleSection" class="h2-heading">War against cyber criminals - Online Corpus key values</h2>  
 <p></p>
-
 <div class="row">
     <div class="col-md-12">
         <span itemprop='image' itemscope itemtype='http://schema.org/ImageObject' id="business-image">
