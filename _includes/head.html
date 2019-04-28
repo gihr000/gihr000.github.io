@@ -20,7 +20,7 @@
     <meta property="twitter:image" content="{% if page.social-article-image %}{{ page.social-article-image }}{% else %}{{% site.social-article-image %}}{% endif %}">
     
     <meta name="robots" content="index, follow">
-    <title>{% if page.metaTitle %}{{ page.metaTitle | escape }}{% else %}{{ site.metaTitle | escape }}{% endif %}</title>
+    <title>{% if page.metaTitle %}{{ page.metaTitle | escape | strip_newlines | truncate: 65 }}{% else %}{{ site.metaTitle | escape | strip_newlines | truncate: 65  }}{% endif %}</title>
     <!-- <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}"> -->
     <meta name="description" content="{% if page.metaDescription %}{{ page.metaDescription | strip_html | strip_newlines | truncate: 160 }}{% endif %}">
     <!-- <meta name="keywords" content="{% if page.keywords %}{{page.keywords}}{% endif %}"> -->
