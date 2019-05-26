@@ -3,24 +3,17 @@ layout: post
 title:  "The mission of Online Corpus"
 categories: onlinecorpus
 tags: cybercrime onlinecorpus
-author: Ivan Pochileev
+author: ivan
 metaDescription: War against cyber criminals - Online Corpus key values
 social-article-url: https://onlinecorpus.com/2019/04/14/online-corpus-mission
 social-article-title: The mission of Online Corpus
 social-article-image: https://onlinecorpus.com/img/cybercrime-hacking-income.jpg
-social-article-type: article    
+social-article-type: article
+image: assets/images/cybercrime-hacking-income.jpg     
 ---
-{:toc}
+
 <h2 itemprop="articleSection" class="h2-heading">War against cyber criminals - Online Corpus key values</h2>  
 <p></p>
-<div class="row">
-    <div class="col-md-12">
-        <span itemprop='image' itemscope itemtype='http://schema.org/ImageObject' id="business-image">
-             <img class="img-fluid" itemprop="url" src="https://onlinecorpus.com/img/cybercrime-hacking-income.jpg" alt="Cybercrime income picture">
-        </span>
-    </div>
-</div>
-
 
 Ever wondered how people got as far as they are? Well, we did. 
 The never-ending strive to know how things function the way they do made us discover very interesting things. Judging by how fast the world is changing, the next couple of decades will be one hell of a rollercoaster - technologically, politically and economically.

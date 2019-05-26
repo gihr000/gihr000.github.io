@@ -3,29 +3,12 @@ layout: post
 title:  "Distinguishing phishing emails from real emails"
 categories: phishing cybercrime email
 tags: phishing email data privacy
-author: Georgi Spasov
-metaDescription: How to distinguish a phishing email from real emails
-social-article-url: https://onlinecorpus.com/2019/04/23/phishing-emails-how-to-distinguish-them
-social-article-title: Everything you should know about phishing campaigns
-social-article-image: https://onlinecorpus.com/img/phishing-emails-distinguish.jpg
-social-article-type: article
+author: georgi
+image: assets/images/phishing-emails-distinguish.jpg
 ---
-{:toc}
-<h2 itemprop="articleSection" class="h2-heading">Detailed guide on distinguishing phishing emails from real emails</h2>  
-<p></p>
-
-<div class="row">
-    <div class="col-md-12">
-        <span itemprop='image' itemscope itemtype='http://schema.org/ImageObject' id="business-image">
-            <img class="img-fluid" itemprop="url" src="https://onlinecorpus.com/img/phishing-emails-distinguish.jpg" alt="Phishing emails - how to distinguish them">
-        </span>
-    </div>
-</div>
 
 If you own a company or work for one, you know how business is organized – everything is happening via email. Meetings and discussions are just a small and harmless fraction of all emails that you receive. Well, what about invoices then? Are you aware that cyber criminals are sending fake invoices to companies and individuals? The amount of money they generate via this amazingly simple method is astonishing. If you want to learn more about this kind of cyber attack, I’d advise you to firstly read the articles about <a title="Spear phishing and whaling article" href="https://onlinecorpus.com/2019/04/23/spear-phishing-attacks/">spear phishing and whaling.</a> They’ll give you a really nice introduction to this article.
  
-
-
 
 <span itemprop="articleBody">
 As you already know what a <a title="Phishing attacks" href= "https://onlinecorpus.com/2019/04/22/cyber-attacks-and-cybercrime-preventing-phishing/">phishing attack and a <a title="Phishing campaigns" href="https://onlinecorpus.com/2019/04/23/everything-you-should-know-phishing-campaigns/"> phishing campaign is</a>, you got to know that there is nothing that can stop hackers in sending you an email.
@@ -33,7 +16,9 @@ Now the question is, how can you distinguish a harmful email from a regular one.
 Since this article will be fairly technical, we’re not going to discuss the blatant and obvious give-aways of a phishing email, nor will we cover the previously discussed phishing campaigns.
 As you already know what a phishing attack is, you got to know that there is nothing that can stop hackers in sending you an email.
 
-Now the question is, how can you distinguish a harmful email from a regular one.
+Now the question is, 
+<h3>how can you distinguish a harmful email from a regular one.</h3>
+
 Since this article will be fairly technical, we’re not going to discuss the blatant and obvious give-aways of a phishing email, nor will we cover the previously discussed phishing campaigns.
 If your cyber security solutions – name them antivirus products, malware blockers etc. fail to protect, the only thing that stands on the way between the cyber criminal and you, is a keyboard.
 People nowadays have no accessible tool that can guarantee that the person, sending an email is the correct one. A hacker could forge the email so that it will seem as if it is sent by a legitimate institution or a person. But it’s actually not.

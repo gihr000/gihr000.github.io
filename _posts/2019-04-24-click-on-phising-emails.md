@@ -3,24 +3,9 @@ layout: post
 title:  "How hackers make you click on phishing emails"
 categories: phishing cybercrime email
 tags: phishing email data privacy
-author: Georgi Spasov
-metaDescription: How hackers make you click on phishing emails
-social-article-url: https://onlinecorpus.com/2019/04/24/click-on-phishing-emails
-social-article-title: How hackers make you click on phishing emails
-social-article-image: https://onlinecorpus.com/img/click-on-phishing-emails.jpg
-social-article-type: article
+author: georgi
+image: assets/images/click-on-phishing-emails.jpg
 ---
-{:toc}
-<h2 itemprop="articleSection" class="h2-heading">Hackers and their favourite phishing tactics</h2>  
-<p></p>
-
-<div class="row">
-    <div class="col-md-12">
-        <span itemprop='image' itemscope itemtype='http://schema.org/ImageObject' id="business-image">
-            <img class="img-fluid" itemprop="url" src="https://onlinecorpus.com/img/click-on-phishing-emails.jpg" alt="Phishing emails - how to distinguish them">
-        </span>
-    </div>
-</div>
 
 The noble art of hacking is all about psychology. If you leave the technical aspect aside, the one thing that gets most people is the false sense of security, overconfidence and trust. Yeah, people trust people they haven’t even seen in their life. That’s what the 21. Century is all about.
 Being secure in such an insecure world seems the most absurd thing ever.

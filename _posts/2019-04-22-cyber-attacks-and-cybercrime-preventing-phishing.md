@@ -3,31 +3,17 @@ layout: post
 title:  "Cyber attacks and cybercrime: Preventing phishing"
 categories: phishing cybercrime
 tags: cybercrime preventing phishing data
-author: Georgi Spasov
-metaDescription: Cyber attacks and cybercrime:- Preventing phishing
-social-article-url: https://onlinecorpus.com/2019/04/22/cyber-attacks-and-cybercrime-preventing-phishing
-social-article-title: Cyber attacks and cybercrime:- Preventing phishing
-social-article-image: https://onlinecorpus.com/img/phishing-email-data-money.jpg
-social-article-type: article   
+author: georgi
+image: assets/images/phishing-email-data-money.jpg   
 ---
-{:toc}
+
+Phishing is without doubt the most commonly used and most preferred way to infiltrate any system. Perhaps you’ve heard of the phrase <i>“You give a poor man a fish, and you feed him for a day, you teach him to phish, you give him… you give him…”</i> – well the whole world actually. 
 
 <h2 itemprop="articleSection" class="h2-heading">Phishing can't be classified as a real cyber crime, right?</h2>  
 <p></p>
+That's not quite accurate.
 
-<div class="row">
-    <div class="col-md-12">
-        <span itemprop='image' itemscope itemtype='http://schema.org/ImageObject' id="business-image">
-            <img class="img-fluid" itemprop="url" src="https://onlinecorpus.com/img/phishing-email-data-money.jpg" alt="Cybercrime phishing data and money">
-        </span>
-    </div>
-</div>
-
-
-This article is dedicated to the most commonly used and most preferred way to infiltrate any system – phishing. Perhaps you’ve heard of the phrase <i>“You give a poor man a fish, and you feed him for a day, you teach him to phish, you give him… you give him…”</i> – well the whole world actually. 
 Phishing is a type of cyber attack, that uses the weakest link in Internet – the human. Phishing is the most successful social engineering attack to extract user data – login credentials, user names, passwords, email addresses, as well as payment data and other valuable information. 
-
-
 
 <span itemprop="articleBody">
 The term ‘phishing’ shows that attackers do not aim to gather information from one specific individual, but rather rely on the fact that data will be collected regardless of the victim, unlike whaling, spear phishing or business email compromise attacks.Phishing could be utilized with different methods and means – targets are contacted by email, telephone or text message by someone posing as a legitimate institution to lure individuals into providing sensitive data. The information could then be used to access different accounts or further continue with data extraction.Since almost everybody reacts negatively to cold calls, cyber criminals utilize email as their primary tool and most conventional way to execute this kind of attack.Another method is the creation of web-pages and domains that look exactly like the original ones – with one major difference – they’re operated by a malicious individual or a cyber crime gang.  

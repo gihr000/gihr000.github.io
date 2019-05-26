@@ -3,23 +3,9 @@ layout: post
 title:  "Email protector – the browser extension that keeps hackers away"
 categories: email-protector email
 tags: email-protector email
-author: Georgi Spasov
-metaDescription: Email protector – the browser extension that keeps hackers away
-social-article-url: https://onlinecorpus.com/2019/04/25/email-protector
-social-article-title: Email protector – the browser extension that keeps hackers away
-social-article-image: https://onlinecorpus.com/img/email-protector-banner-hackers-away.jpg
-social-article-type: article
+author: georgi
+image: assets/images/email-protector-banner-hackers-away.jpg
 ---
-{:toc}
-
-<div class="row">
-    <div class="col-md-12">
-        <span itemprop='image' itemscope itemtype='http://schema.org/ImageObject' id="business-image">
-            <img class="img-fluid" itemprop="url" src="https://onlinecorpus.com/img/email-protector-banner-hackers-away.jpg" alt="Keep hackers away from your inbox - Email Protector">
-        </span>
-    </div>
-</div>
-
 
 As we’ve already mentioned and discussed <a title="What is phishing" href="https://onlinecorpus.com/2019/04/22/cyber-attacks-and-cybercrime-preventing-phishing/"> what phishing attacks are, <a title="Phishing campaigns" href="https://onlinecorpus.com/2019/04/23/everything-you-should-know-phishing-campaigns/"> and how are they planned in campaigns</a>, how <a title="Spear phishing" href="https://onlinecorpus.com/2019/04/23/spear-phishing-attacks/">spear-phishing</a> and <a title="Whaling attacks" href="https://onlinecorpus.com/2019/04/25/whaling-big-fish/">whaling attacks</a> rob hard-working people, just because hackers exploit the very human nature, now I want to shed some light on another problem – <b>until now there was no single tool that could help you and protect you while you access and use your email daily.</b>
 

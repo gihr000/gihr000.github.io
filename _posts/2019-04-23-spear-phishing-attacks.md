@@ -3,28 +3,11 @@ layout: post
 title:  "Spear phishing attacks - the most dangerous form of phishing"
 categories: phishing spear-phishing
 tags: cybercrime phishing data
-author: Ivan Pochileev
-metaDescription: Spear phishing attacks - the most dangerous form of phishing
-social-article-url: https://onlinecorpus.com/2019/04/23/spear-phishing-attacks
-social-article-title: Spear phishing attacks - the most dangerous form of phishing
-social-article-image: https://onlinecorpus.com/img/spear-phishing-drawing.jpg
-social-article-type: article
+author: ivan
+image: assets/images/spear-phishing-drawing.jpg
 ---
-{:toc}
-
-<h2 itemprop="articleSection" class="h2-heading">Spear phishing attacks - the most dangerous form of phishing</h2>  
-<p></p>
-
-<div class="row">
-    <div class="col-md-12">
-        <span itemprop='image' itemscope itemtype='http://schema.org/ImageObject' id="business-image">
-             <img class="img-fluid" itemprop="url" src="https://onlinecorpus.com/img/spear-phishing-drawing.jpg" alt="Spear phishing attack picture">
-        </span>
-    </div>
-</div>
 
 One of the most common methods cybercriminals use is the so called phishing – a cyber attack that is focused on getting access to one’s computer system, its passwords, also credit card data, bank accounts or other sensitive corporate information that could bring them easy money. To get this information cyber criminals are using email, social media, and any form of communication they can to gain access of and steal valuable data. You can find more about the broader term <i>phishing</i><a title="What do we need to know about phishing" href="https://onlinecorpus.com/2019/04/22/cyber-attacks-and-cybercrime-preventing-phishing/">in our previous article</a>
-
 
 
 <span itemprop="articleBody">

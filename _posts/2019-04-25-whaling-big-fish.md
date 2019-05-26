@@ -3,24 +3,13 @@ layout: post
 title:  "Whaling - going for the big fish. What do we know about it?"
 categories: whaling cybercrime
 tags: whaling email data privacy
-author: Ivan Pochileev
-metaDescription: Whaling - going for the big fish. What do we know about it?
-social-article-url: https://onlinecorpus.com/2019/04/25/whaling-big-fish
-social-article-title: Whaling - going for the big fish. What do we know about it?
-social-article-image: https://onlinecorpus.com/img/whaling.jpg
-social-article-type: article
+author: ivan
+image: assets/images/whaling.jpg
+featured: true
 ---
 {:toc}
 <h2 itemprop="articleSection" class="h2-heading">How do cyber criminals use whaling. What is whaling?</h2>  
 <p></p>
-
-<div class="row">
-    <div class="col-md-12">
-        <span itemprop='image' itemscope itemtype='http://schema.org/ImageObject' id="business-image">
-            <img class="img-fluid" itemprop="url" src="https://onlinecorpus.com/img/whaling.jpg" alt="Whaling as a form of cybercrime">
-        </span>
-    </div>
-</div>
 
 Whaling is not only the favourite sport of the Japanese, but a type of cyberattack that uses the <a title="Spear phishing" href="https://onlinecorpus.com/2019/04/23/spear-phishing-attacks/">spear-phishing methods</a> to go after a high-profile target. Also known as the CEO-fraud, whaling is almost the same as spear-phishing but the difference is that it uses methods such as email and website spoofing to trick the victim into performing specific actions, such as revealing sensitive data or wire transfer. Due to the evolving technologies everything becomes possible because of online communication and as <i>Homer Simpson</i> once said “The problem with the world today is communication…too much communication.”
 So on one hand <a title="All you need to know about phishing" href="https://onlinecorpus.com/2019/04/23/everything-you-should-know-phishing-campaigns/">phishing scams</a> target random individuals and spear-phishing targets specific individuals or organizations and on the other hand whaling <b>goes to the next level</b> by targeting the chosen victim in such a way that the fraudulent communications they send appear to have come from someone that is high ranked at their organization, such as the CEO or finance manager, or the so called “big fishes”. This type of scam requires a lot of preparation and research so to be executed successfully.

@@ -1,0 +1,466 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+<link rel="icon" href="/assets/images/logo.png">
+
+<title>Email protector – the browser extension that keeps hackers away | Online Corpus</title>
+
+<!-- Begin Jekyll SEO tag v2.5.0 -->
+<title>Email protector – the browser extension that keeps hackers away | Cyber security solutions and email protection against phishing and hackers</title>
+<meta name="generator" content="Jekyll v3.8.5" />
+<meta property="og:title" content="Email protector – the browser extension that keeps hackers away" />
+<meta name="author" content="georgi" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="As we’ve already mentioned and discussed what phishing attacks are, and how are they planned in campaigns, how spear-phishing and whaling attacks rob hard-working people, just because hackers exploit the very human nature, now I want to shed some light on another problem – until now there was no single tool that could help you and protect you while you access and use your email daily." />
+<meta property="og:description" content="As we’ve already mentioned and discussed what phishing attacks are, and how are they planned in campaigns, how spear-phishing and whaling attacks rob hard-working people, just because hackers exploit the very human nature, now I want to shed some light on another problem – until now there was no single tool that could help you and protect you while you access and use your email daily." />
+<link rel="canonical" href="http://localhost:4000/email-protector/" />
+<meta property="og:url" content="http://localhost:4000/email-protector/" />
+<meta property="og:site_name" content="Cyber security solutions and email protection against phishing and hackers" />
+<meta property="og:image" content="http://localhost:4000/assets/images/email-protector-banner-hackers-away.jpg" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2019-04-25T00:00:00+03:00" />
+<script type="application/ld+json">
+{"image":"http://localhost:4000/assets/images/email-protector-banner-hackers-away.jpg","@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/email-protector/"},"publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/images/logo-small.png"},"name":"georgi"},"url":"http://localhost:4000/email-protector/","author":{"@type":"Person","name":"georgi"},"headline":"Email protector – the browser extension that keeps hackers away","dateModified":"2019-04-25T00:00:00+03:00","datePublished":"2019-04-25T00:00:00+03:00","description":"As we’ve already mentioned and discussed what phishing attacks are, and how are they planned in campaigns, how spear-phishing and whaling attacks rob hard-working people, just because hackers exploit the very human nature, now I want to shed some light on another problem – until now there was no single tool that could help you and protect you while you access and use your email daily.","@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    
+<link href="/assets/css/screen.css" rel="stylesheet">
+
+<link href="/assets/css/main.css" rel="stylesheet">
+
+<link href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.7.6/css/mdb.min.css" rel="stylesheet">
+
+<script src="/assets/js/jquery.min.js"></script>
+
+    <!-- Google Analytics -->
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+    
+    ga('create', 'UA-139400292-1', 'auto');
+    ga('send', 'pageview');
+</script>
+<!-- End Google Analytics -->
+    
+</head>
+
+
+
+<body class="layout-post">
+	<!-- defer loading of font and font awesome -->
+	<noscript id="deferred-styles">
+		<link href="https://fonts.googleapis.com/css?family=Righteous%7CMerriweather:300,300i,400,400i,700,700i" rel="stylesheet">
+		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
+	</noscript>
+
+
+<!-- Begin Menu Navigation
+================================================== -->
+<nav class="navbar navbar-expand-lg navbar-light bg-white fixed-top mediumnavigation nav-down">
+
+    <div class="container pr-0">
+
+    <!-- Begin Logo -->
+    <a title="OnlineCorpus" class="navbar-brand" href="/">
+    <img src="/assets/images/logo-small.png" alt="Online Corpus">
+    </a>
+    <!-- End Logo -->
+
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarMediumish" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarMediumish">
+
+        <!-- Begin Menu -->
+
+            <ul class="navbar-nav ml-auto">
+
+                
+                <li class="nav-item">
+                
+                <a title="Home" class="nav-link" href="/">Home</a>
+                </li>
+
+                <li class="nav-item">
+                    <a title="About" class="nav-link" href="/about">About</a>
+                </li>
+
+                <li class="nav-item">
+                    <div class="dropdown">
+                        <button class="btn btn-sm btn-success dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                          Chose language
+                        </button>
+                        <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                          <a class="dropdown-item" href="https://bg.onlinecorpus.com">Български</a>
+                          <a class="dropdown-item" href="https://onlinecorpus.com">English</a>
+                        </div>
+                      </div>
+                </li>
+
+            </ul>
+
+        <!-- End Menu -->
+
+    </div>
+
+    </div>
+</nav>
+<!-- End Navigation
+================================================== -->
+
+<div class="site-content">
+
+<div class="container">
+
+<!-- Site Title
+================================================== -->
+<div class="mainheading">
+    <h1 class="sitetitle">Online Corpus</h1>
+    <p class="lead">
+        Online Corpus is a company that helps you mitigate man in the middle and business email compromise attacks, spear phishing and whaling. We deliver cyber security trainings and cyber protection software that keeps cyber criminals away from you.
+    </p>
+</div>
+
+<!-- Content
+================================================== -->
+<div class="main-content">
+    <!-- Begin Article
+================================================== -->
+<div class="container">
+    <div class="row">
+
+        <!-- Post Share -->
+        <div class="col-md-2 pl-0">
+            <div class="share sticky-top sticky-top-offset">
+    <p>
+        Share
+    </p>
+    <ul>
+        <li class="ml-1 mr-1">
+            <a title="Twitter" target="_blank" href="https://twitter.com/intent/tweet?text=Email protector – the browser extension that keeps hackers away&url=http://localhost:4000/email-protector/" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+                <i class="fab fa-twitter"></i>
+            </a>
+        </li>
+
+        <li class="ml-1 mr-1">
+            <a title="Facebook" target="_blank" href="https://facebook.com/sharer.php?u=http://localhost:4000/email-protector/" onclick="window.open(this.href, 'facebook-share', 'width=550,height=435');return false;">
+                <i class="fab fa-facebook-f"></i>
+            </a>
+        </li>
+
+    </ul>
+    
+    <div class="sep">
+    </div>
+    <ul>
+        <li>
+        <a title="Disqus comments" class="small smoothscroll" href="#disqus_thread"></a>
+        </li>
+    </ul>
+    
+</div>
+
+        </div>
+
+        <!-- Post -->
+        
+
+        <div class="col-md-9 flex-first flex-md-unordered">
+            <div class="mainheading">
+
+                <!-- Author Box -->
+                
+                <div class="row post-top-meta">
+                    <div class="col-xs-12 col-md-3 col-lg-2 text-center text-md-left mb-4 mb-md-0">
+                        
+                        <img class="author-thumb" src="/assets/images/authors/georgi-spasov.jpeg?s=250&d=mm&r=x" alt="Georgi Spasov">
+                        
+                    </div>
+                    <div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left">
+                        <a title="The author" target="_blank" class="link-dark" href="https://onlinecorpus.com">Georgi Spasov</a><a title="Author-twitter" target="_blank" href="https://twitter.com/" class="btn follow">Follow</a>
+                        <span class="author-description">CEO and Webmaster of OnlineCorpus. Georgi is a digital forensics and open source expert and was the Bulgarian contact point for high-tech crimes. Currently he's devoted to code as code is devoted to him.</span>
+                    </div>
+                </div>
+                
+
+                <!-- Post Title -->
+                <h1 class="posttitle">Email protector – the browser extension that keeps hackers away</h1>
+
+            </div>
+
+            <!-- Adsense if enabled from _config.yml (change your pub id and slot) -->
+            
+                <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-7434541119036427",
+    enable_page_level_ads: true
+  });
+</script>
+            
+            <!-- End Adsense -->
+            <!-- Analytics if enabled from _config.yml-->
+            
+                <!-- Global Site Tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id="></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', '');
+</script>
+
+                
+            <!-- End Analytics-->
+
+            <!-- Post Featured Image -->
+            
+
+            <img class="featured-image img-fluid" src="http://localhost:4000/assets/images/email-protector-banner-hackers-away.jpg" alt="Email protector – the browser extension that keeps hackers away"> 
+
+            
+            <!-- End Featured Image -->
+
+            <!-- Post Content -->
+            <div class="article-post">
+                <!-- Toc if any -->
+                
+                <!-- End Toc -->
+                <p>As we’ve already mentioned and discussed <a title="What is phishing" href="https://onlinecorpus.com/2019/04/22/cyber-attacks-and-cybercrime-preventing-phishing/"> what phishing attacks are, <a title="Phishing campaigns" href="https://onlinecorpus.com/2019/04/23/everything-you-should-know-phishing-campaigns/"> and how are they planned in campaigns</a>, how <a title="Spear phishing" href="https://onlinecorpus.com/2019/04/23/spear-phishing-attacks/">spear-phishing</a> and <a title="Whaling attacks" href="https://onlinecorpus.com/2019/04/25/whaling-big-fish/">whaling attacks</a> rob hard-working people, just because hackers exploit the very human nature, now I want to shed some light on another problem – <b>until now there was no single tool that could help you and protect you while you access and use your email daily.</b></a></p>
+
+<p><span itemprop="articleBody">Wouldn’t it be better to be more <b>secure</b> and know whether a <b>message</b> is coming from a <b>legitimate source</b> or is designed to <b>trick you</b> into opening the email and sharing your personal information or downloading a harmful file that could make your computer another node in someone else’s botnet?
+<b>Email protector</b> is a browser extension that mitigates <b>phishing, spear phishing and whaling attacks</b>. It is designed to protect you when you do your day-to-day tasks. Instead of wasting time validating email headers by hand, Email Protector does that for you.</span></p>
+<h3>What is Email Protector?</h3>
+<p>Email protector is a browser extension that gets installed… on your browser. Statistics show that the most commonly used browser is Google Chrome – that is why we designed the extension to be functional with that browser. The current release supports English, German and Bulgarian languages.</p>
+
+<h3>What does Email Protector do?</h3>
+<p>As a browser extension, you should give permission to the Protector to read the headers of the emails you receive. The extension will not touch any other line of text besides the email header. By scanning the header, Email Protector will find out if the email is coming from a legitimate source or not. If an email comes from a non-legitimate source (like the method used in this article), then the extension will inform the user about the maliciously crafted email.
+But what if the email comes from a legitimate source?
+Let’s say that you’re having a nice business conversation with <b>businessmail1@gmail.com</b>. You arrange payment information, exchange invoices and payment information and all of a sudden you get an email from <b>businessmali1@gmail.com</b> (mind the changed email name) or <b>businessmail@gmali.com</b> (the username remains the same, but the domain is changed). This is one of hacker’s favorite methods that trick you into believing that you’ve communicating with the legitimate person or entity. You can find a detailed article about this method here.
+We’ve included functionality that can protect you from those “misspelled” emails, regardless of the fact if the username or domain name was forged.
+You, as the user of the Extension, can “trust” specific email addresses – the ones that you know for sure are legitimate. You can do it by highlighting an email in the Chrome browser, right-clicking it and choosing “Trust email”. The email you have trusted will be stored in the memory of the extension, and you will see the email populate the list of “trusted emails”.
+The standard version of the extension includes one slot for “trusted emails”, while the premium versions include three, ten or unlimited supported “trusted emails”.
+That way, if you have trusted a specific email, let’s say business@mycompany.org, and you receive other emails from users such as busniess@mycompany.org or business@mycopmany.org, you will be notified about the fact that the email senders are not the same. This notification is going to be persistent whenever you open such an email, so that you are constantly reminded of the difference in the email names and / or domains.
+If you make an error adding an email, you can always remove the email from the list of trusted emails by clicking on it and then selecting “remove email” from the button below.
+Additional functionality includes the proactive prevention of phishing and spam campaigns by some domains. If a domain is used for malicious purposes, we collect the email address, which is related with the spam or phishing campaign, and proactively silently inform all Email Protector clients.
+Protecting yourself means protecting other as well. We take great care in not exposing any information whatsoever that could compromise anyone as an entity or an individual. That is why we do not collect any user-specific information.
+Security is something that should not be compromised on. Whenever there is a malicious email that you have received, Email Protector gathers the information, such as email user name and email domain (if the email is not spoofed), to inform other Email Protector instances across the globe for the existing threat. If the email is spoofed, Email Protector creates a local cache-like blacklist. This feature is user-centric and takes user security to a whole new level.</p>
+
+<h3>Who can benefit from email protector?</h3>
+<p>The extension is designed for day-to-day use by individuals and companies. If you’re using a browser and receiving 20+ emails daily, you’ll most probably not have enough time to go over email headers manually. That’s why we strongly recommend that you use or product. Just stay secure.</p>
+
+<h3>Can I use Email Protector on all email platforms?</h3>
+<p>Currently Email Protector is limited to <b>abv.bg</b>, <b>mail.bg</b> and Google’s <b>gmail.com</b>.</p>
+
+<h3>What are the supported platforms?</h3>
+<p>As a Chrome extension, currently the Email Protector could be installed on Google Chrome browsers, thus making it platform-independent (you can use it on Mac, Linux or Windows).
+In the near future, we will make the Extension interoperable with Mozilla Firefox as well.</p>
+
+<h3>Where can I download Email Protector from?</h3>
+<p>You can find the extension in the Chrome Web Store. It’s publicly available and free for use.</p>
+
+<h3>Is there a security training video?</h3>
+<p>Currnently not, but as soon as we upload it, everything will be uploaded here for easier refference.</p>
+
+<h3>Where can we report bugs or feature ideas?</h3>
+<p>You’ve got an idea or just found a bug? You can share it with us on the corporate email! (You can see it in the footer)</p>
+
+            </div>
+
+            <!-- Rating -->
+            
+
+            <!-- Post Date -->
+            <p>
+            <small>
+                <span class="post-date"><time class="post-date" datetime="2019-04-25">25 Apr 2019</time></span>           
+                
+                </small>
+            </p>
+
+            <!-- Post Categories -->
+            <div class="after-post-cats">
+                <ul class="tags mb-4">
+                    
+                    
+                    <li>
+                        <a title="Scroll" class="smoothscroll" href="/categories#email">email</a>
+                    </li>
+                    
+                    <li>
+                        <a title="Scroll" class="smoothscroll" href="/categories#email-protector">email-protector</a>
+                    </li>
+                    
+                </ul>
+            </div>
+            <!-- End Categories -->
+
+            <!-- Post Tags -->
+            <div class="after-post-tags">
+                <ul class="tags">
+                    
+                    
+                    <li>
+                        <a title="Scroll" class="smoothscroll" href="/tags#email">#email</a>
+                    </li>
+                    
+                    <li>
+                        <a title="Scroll" class="smoothscroll" href="/tags#email-protector">#email-protector</a>
+                    </li>
+                    
+                </ul>
+            </div>
+            <!-- End Tags -->
+
+            <!-- Prev/Next -->
+            <div class="row PageNavigation d-flex justify-content-between font-weight-bold">
+            
+            <a title="Previous block" class="prev d-block col-md-6" href="http://localhost:4000/click-on-phising-emails/"> &laquo; How hackers make you click on phishing emails</a>
+            
+            
+            <a title="Next block" class="next d-block col-md-6 text-lg-right" href="http://localhost:4000/whaling-big-fish/">Whaling - going for the big fish. What do we know about it? &raquo; </a>
+            
+            <div class="clearfix"></div>
+            </div>
+            <!-- End Categories -->
+
+        </div>
+        <!-- End Post -->
+
+    </div>
+</div>
+<!-- End Article
+================================================== -->
+
+<!-- Begin Comments
+================================================== -->
+
+    <div class="container">
+        <div id="comments" class="row justify-content-center mb-5">
+            <div class="col-md-8">
+                <section class="disqus">
+    <div id="disqus_thread"></div>
+    <script type="text/javascript">
+        var disqus_shortname = 'onlinecorpus'; 
+        var disqus_developer = 0;
+        (function() {
+            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+            dsq.src = window.location.protocol + '//' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a title="Disqus comments" href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    <a title="Disqus" href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+</section>
+
+            </div>
+        </div>
+    </div>
+
+<!--End Comments
+================================================== -->
+
+<!-- Review with LD-JSON, adapt it for your needs if you like, but make sure you test the generated HTML source code first: 
+https://search.google.com/structured-data/testing-tool/u/0/
+================================================== -->
+
+</div>
+
+
+<!-- Bottom Alert Bar
+================================================== -->
+<div class="alertbar">
+	<div class="container text-center">
+		<span><img src="/assets/images/logo-small.png" alt="Cyber security solutions and email protection against phishing and hackers"> &nbsp; Never miss a <b>story</b> from us, subscribe to our newsletter</span>
+        <form action="https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b" method="post" name="mc-embedded-subscribe-form" class="wj-contact-form validate" target="_blank" novalidate>
+            <div class="mc-field-group">
+            <input type="email" placeholder="Email" name="EMAIL" class="required email" id="mce-EMAIL" autocomplete="on" required>
+            <input type="submit" value="Subscribe" name="subscribe" class="heart">
+            </div>
+        </form>
+	</div>
+</div>
+
+    
+</div>
+
+<!-- Categories Jumbotron
+================================================== -->
+<div class="jumbotron fortags">
+	<div class="d-md-flex h-100">
+		<div class="col-md-4 transpdark align-self-center text-center h-100">
+            <div class="d-md-flex align-items-center justify-content-center h-100">
+                <h2 class="d-md-block align-self-center py-1 font-weight-light">Discover our categories <span class="d-none d-md-inline">→</span></h2>
+            </div>
+		</div>
+		<div class="col-md-8 p-5 align-self-center text-center">
+            
+            
+                
+                    <a title="Category" class="mt-1 mb-1" href="/categories#onlinecorpus">onlinecorpus (1)</a>
+                
+                    <a title="Category" class="mt-1 mb-1" href="/categories#phishing">phishing (5)</a>
+                
+                    <a title="Category" class="mt-1 mb-1" href="/categories#cybercrime">cybercrime (5)</a>
+                
+                    <a title="Category" class="mt-1 mb-1" href="/categories#email">email (3)</a>
+                
+                    <a title="Category" class="mt-1 mb-1" href="/categories#spear-phishing">spear-phishing (1)</a>
+                
+                    <a title="Category" class="mt-1 mb-1" href="/categories#email-protector">email-protector (1)</a>
+                
+                    <a title="Category" class="mt-1 mb-1" href="/categories#whaling">whaling (1)</a>
+                
+            
+            
+		</div>
+	</div>
+</div>
+
+<!-- Begin Footer
+================================================== -->
+<footer class="footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 col-sm-6 text-center text-lg-left">
+                Copyright © 2019 Online Corpus 
+            </div>
+        </div>
+    </div>
+</footer>
+<!-- End Footer
+================================================== -->
+
+</div> <!-- /.site-content -->
+
+<!-- Scripts
+================================================== -->
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
+
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
+
+<script src="/assets/js/mediumish.js"></script>
+
+
+<script src="/assets/js/lazyload.min.js"></script>
+
+
+<script src="/assets/js/ie10-viewport-bug-workaround.js"></script> 
+
+
+<script id="dsq-count-scr" src="//onlinecorpus.disqus.com/count.js"></script>
+
+
+<script src="/assets/js/custom.js"></script>
+</body>
+</html>

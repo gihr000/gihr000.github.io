@@ -1,55 +1,74 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
+# Site
+name: "Online Corpus"
+title: "Cyber security solutions and email protection against phishing and hackers"
+description: "Online Corpus is a company that helps you mitigate man in the middle and business email compromise attacks, spear phishing and whaling. We deliver cyber security trainings and cyber protection software that keeps cyber criminals away from you."
+logo: 'assets/images/logo-small.png'
+favicon: 'assets/images/logo-small.png'
+baseurl: 
+google_analytics: 'UA-139400292-1'
+disqus: 'onlinecorpus'
+mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+include: ["_pages"]
+permalink: /:title/
 
-# Site settings
-title: Online Corpus
-metaTitle: Online Corpus | Cyber security solutions and email protection
-
-baseurl: "" # the subpath of the site, e.g. /blog
-url: "https://onlinecorpus.com"
-
-permalink: /:year/:month/:day/:title/
-
-# other links
-facebook_username: onlinecorpus
-twitter_username: onlinecorpus
-email: admin@onlinecorpus.com
-linkedIn_username: online-corpus
-dribbble_username:
-
-description_footer:  Online Corpus Industries 2019&copy; All rights reserved<br> 
-
-disqus_shortname: onlinecorpus
-
-google_analytics_id: UA-133656432-1 
-
-# Build settings
+# Authors
+authors:
+  georgi:
+    name: Georgi Spasov
+    display_name: Georgi Spasov 
+    gravatar: 'assets/images/authors/georgi-spasov.jpeg'
+    email: admin@onlinecorpus.com
+    web: https://onlinecorpus.com
+    twitter: https://twitter.com/
+    description: "CEO and Webmaster of OnlineCorpus. Georgi is a digital forensics and open source expert and was the Bulgarian contact point for high-tech crimes. Currently he's devoted to code as code is devoted to him."
+  ivan:
+    name: Ivan Pochileev
+    display_name: Ivan Pochileev
+    gravatar: 'assets/images/authors/ivan-pochileev.jpg'
+    email: contact@onlinecorpus.com
+    web: https://onlinecorpus.com
+    twitter:
+    description: "COO of OnlineCorpus. Ivan is a notorious cybercrime investigator who has busted a lot of gangs. His inside knowledge and know-how are extremely valuable. His goal is helping people with his knowledge."
+       
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+    
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+    
+# Pagination 
+paginate: 6
+paginate_path: /page:num/
+    
+# Other
 markdown: kramdown
 
 kramdown:
   input: GFM
   syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
 
-# port
-# port: 1234
+# Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
+adsense: "enabled"
+adsense-data-ad-client: "ca-pub-7434541119036427"
 
-# url
-category_dir: category/
-tag_dir: tag/
+#Google Analytics
+analytics: "enabled"
+analycis-id: "139400292"
 
-# excerpt
-excerpt_separator: "\n\n\n\n"
+# Lazy Images ("enabled" or "disabled")
+lazyimages: "enabled"
 
-# paginate
-plugins: [jekyll-paginate]
-paginate: 6
-
-#Social Plugin resources
-social-article-url: https://onlinecorpus.com
-social-article-title: Online Corpus - cyber security services, counter hacking and email protection
-social-article-image: https://onlinecorpus.com/img/email-protector-banner-hackers-away.jpg
-social-article-type: website
+exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]

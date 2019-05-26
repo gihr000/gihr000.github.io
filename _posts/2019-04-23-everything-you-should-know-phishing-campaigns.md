@@ -3,34 +3,18 @@ layout: post
 title:  "Everything you should know about phishing campaigns"
 categories: phishing cybercrime
 tags: phishing campaign data privacy
-author: Georgi Spasov
-metaDescription: Everything you should know about phishing campaigns
-social-article-url: https://onlinecorpus.com/2019/04/22/everything-you-should-know-phishing-campaigns
-social-article-title: Everything you should know about phishing campaigns
-social-article-image: https://onlinecorpus.com/img/phishing-campaign-criminal.jpg
-social-article-type: article   
+author: georgi
+image: assets/images/phishing-campaign-criminal.jpg   
 ---
-{:toc}
-
-<h2 itemprop="articleSection" class="h2-heading">Phishing campaigns - how do hackers plan and execute them?</h2>  
-<p></p>
-
-<div class="row">
-    <div class="col-md-12">
-        <span itemprop='image' itemscope itemtype='http://schema.org/ImageObject' id="business-image">
-            <img class="img-fluid" itemprop="url" src="https://onlinecorpus.com/img/phishing-campaign-criminal.jpg" alt="Phishing campaigns - plan and execution picture">
-        </span>
-    </div>
-</div>
-
 
 Real hackers plan every single step very carefully. What's the trick, you'll ask? Well, experience and common knowledge go hand in hand. And since hackers usually specialize at one area at a time, it's really hard to know when one's knowledge is sufficient enough and skills are technically advanced enough to conduct such an attack. Usually 95% of all spammers are just skids (script-kiddies are wannabe hackers with insuficient programming and systems knowledge). Yes, it may happen so that they catch a fish or two, but the really malicious actors are the one preparing months before a big hit.
 Such a preparation has a lot of prerequites. 
 
-
+<h2 itemprop="articleSection" class="h2-heading">So how do hackers plan and execute campaigns?</h2>  
+<p></p>
 
 <span itemprop="articleBody">
-Bore continuing on, have you checked out the article that goes about <a title="Cyber attacks and cybercrime: Preventing phishing" href="https://onlinecorpus.com/2019/04/22/cyber-attacks-and-cybercrime-preventing-phishing/">what phishing is and how to prevent it?</a> Check it out if you havent'.
+Bore continuing on, have you checked out the article that goes about <a title="Cyber attacks and cybercrime: Preventing phishing" href="https://onlinecorpus.com/2019/04/22/cyber-attacks-and-cybercrime-preventing-phishing/">what phishing is and how to prevent it?</a> Check it out if you have not.
 We're not going to dive into some old cases of mine, as the technical details are overwhelming and this blogpost will be even hardly readable. I'd rather shed a light on what the Internet folks do.
 To be fair, there is a gazillion ways to launch a campaign - and often times it occurs as spontaneous as it sounds. Of course, the results of such a campaign will be close to zero and the - withough previous planning a campaign such as this will be a total failure.
 The <b>fruit bearing</b> way that hackers often times adhere to, is to launch a campaign whenever they have gained enough data like names, emails, phone numbers. But that's all random data - a phishing campaign is nothing more than collecting some data or even buying it and then using it for malicious purposes. During those campaigns, mailcious actors have no real idea who they will compromise. That's the main difference with wailing or spear phishing.
