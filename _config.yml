@@ -22,13 +22,13 @@ authors:
     twitter: https://twitter.com/
     description: "CEO and Webmaster of OnlineCorpus. Georgi is a digital forensics and open source expert and was the Bulgarian contact point for high-tech crimes. Currently he's devoted to code as code is devoted to him."
   ivan:
-    name: Ivan Pochileev
-    display_name: Ivan Pochileev
-    gravatar: 'assets/images/authors/ivan-pochileev.jpg'
+    name: Ivan K.
+    display_name: Ivan K.
+    gravatar: 'assets/images/authors/ivan-k.jpg'
     email: contact@onlinecorpus.com
     web: https://onlinecorpus.com
     twitter:
-    description: "COO of OnlineCorpus. Ivan is a notorious cybercrime investigator who has busted a lot of gangs. His inside knowledge and know-how are extremely valuable. His goal is helping people with his knowledge."
+    description: "COO of OnlineCorpus. Ivan is a cyber security specialist and a co-author of the blog. Ivan is an expert in the area of phishing and whaling mitigation."
        
 # Plugins
 plugins:
