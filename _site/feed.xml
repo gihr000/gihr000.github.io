@@ -5,8 +5,8 @@
     <description>Online Corpus is a company that helps you mitigate man in the middle and business email compromise attacks, spear phishing and whaling. We deliver cyber security trainings and cyber protection software that keeps cyber criminals away from you.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 02 Jun 2019 11:28:00 +0300</pubDate>
-    <lastBuildDate>Sun, 02 Jun 2019 11:28:00 +0300</lastBuildDate>
+    <pubDate>Mon, 19 Aug 2019 16:14:13 +0300</pubDate>
+    <lastBuildDate>Mon, 19 Aug 2019 16:14:13 +0300</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -62,6 +62,8 @@ According to cyber security provider Smarttech 247, the number of whaling attac
         
         <category>privacy</category>
         
+        
+        <category>en</category>
         
         <category>whaling</category>
         
@@ -119,6 +121,8 @@ In the near future, we will make the Extension interoperable with Mozilla Firefo
         <category>email</category>
         
         
+        <category>en</category>
+        
         <category>email-protector</category>
         
         <category>email</category>
@@ -156,6 +160,8 @@ Check out how out extension works!&lt;/p&gt;
         
         <category>privacy</category>
         
+        
+        <category>en</category>
         
         <category>phishing</category>
         
@@ -208,6 +214,8 @@ In this way the employee has no time to react and think over the changes.&lt;/p&
         
         <category>data</category>
         
+        
+        <category>en</category>
         
         <category>phishing</category>
         
@@ -268,6 +276,8 @@ Only then can you be sure that even if your email provider is not secure, you wi
         <category>privacy</category>
         
         
+        <category>en</category>
+        
         <category>phishing</category>
         
         <category>cybercrime</category>
@@ -313,6 +323,8 @@ If the user, runs a Windows OS instance on his laptop or tower, the chances that
         
         <category>privacy</category>
         
+        
+        <category>en</category>
         
         <category>phishing</category>
         
@@ -363,6 +375,8 @@ The links could be deceiving, the text of the hyperlink could display www.bankof
         <category>data</category>
         
         
+        <category>en</category>
+        
         <category>phishing</category>
         
         <category>cybercrime</category>
@@ -408,6 +422,8 @@ That is where our tools can help you be one step ahead of them, and even if your
         
         <category>onlinecorpus</category>
         
+        
+        <category>en</category>
         
         <category>onlinecorpus</category>
         
