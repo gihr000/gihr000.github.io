@@ -26,7 +26,7 @@ comments: true
 
 <p>Have you checked out our Chrome web extension? It's free and it contains everyhing you need to stay secure when browsing your email via a browser.</p>
 
-<a target="_blank" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=E3ATBPQJGXJ2G&source=url" class="btn btn-success">Check it out</a>
+<a target="_blank" href="https://chrome.google.com/webstore/detail/email-protector/lnnmnigpldphlpeidbehpddjlfpggalb" class="btn btn-success">Check it out</a>
 
 </div>
 </div>
