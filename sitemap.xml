@@ -22,27 +22,27 @@
 		<priority>0.80</priority>
 	</url>
 	<url>
-		<loc>http://onlinecorpus.com/2019/04/14/online-corpus-mission/</loc>
+		<loc>http://onlinecorpus.com/online-corpus-mission/</loc>
 		<lastmod>2019-04-17T17:50:31+00:00</lastmod>
 		<priority>0.80</priority>
 	</url>
 	<url>
-		<loc>https://onlinecorpus.com/2019/04/23/everything-you-should-know-phishing-campaigns/</loc>
+		<loc>https://onlinecorpus.com/everything-you-should-know-phishing-campaigns/</loc>
 		<lastmod>2019-04-22T21:47:50+00:00</lastmod>
 		<priority>0.80</priority>
 	</url>
 	<url>
-		<loc>https://onlinecorpus.com/2019/04/22/cyber-attacks-and-cybercrime-preventing-phishing/</loc>
+		<loc>https://onlinecorpus.com/cyber-attacks-and-cybercrime-preventing-phishing/</loc>
 		<lastmod>2019-04-22T21:47:50+00:00</lastmod>
 		<priority>0.80</priority>
 	</url>
 	<url>
-		<loc>https://onlinecorpus.com/2019/04/23/phishing-emails-how-to-distinguish-tem/</loc>
+		<loc>https://onlinecorpus.com/phishing-emails-how-to-distinguish-tem/</loc>
 		<lastmod>2019-04-23</lastmod>
 		<priority>0.80</priority>
 	</url>  
 	<url>
-		<loc>https://onlinecorpus.com/2019/04/23/everything-you-should-know-phishing-campaigns/</loc>
+		<loc>https://onlinecorpus.com/everything-you-should-know-phishing-campaigns/</loc>
 		<lastmod>2019-04-23T21:13:50+00:00</lastmod>
 		<priority>0.80</priority>
 	</url>  
@@ -52,11 +52,16 @@
 		<priority>0.80</priority>
 	</url>  
 	<url>
-		<loc>http://onlinecorpus.com/2019/04/24/click-on-phising-emails/</loc>
+		<loc>http://onlinecorpus.com/click-on-phising-emails/</loc>
 		<lastmod>2019-04-24T11:13:50+00:00</lastmod>
 		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>https://onlinecorpus.com/whaling-big-fish/</loc>
+		<lastmod>2019-09-03T10:05:50+00:00</lastmod>
+		<priority>0.80</priority>
 	</url>  
-		<url>
+	<url>
 		<loc>http://onlinecorpus.com/bg</loc>
 		<lastmod>2019-04-17T17:50:31+00:00</lastmod>
 		<priority>1.00</priority>
