@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cyber email protection against phishing and hackers</title>
-    <description>Online Corpus is a company that helps you mitigate man in the middle and business email compromise attacks, spear phishing and whaling. We deliver cyber security trainings and cyber protection software that keeps cyber criminals away from you.</description>
+    <description>Online Corpus delivers cyber security trainings and cyber protection software that keeps criminals away from your email.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 08 Sep 2019 12:08:46 +0300</pubDate>
-    <lastBuildDate>Sun, 08 Sep 2019 12:08:46 +0300</lastBuildDate>
+    <pubDate>Sun, 08 Sep 2019 14:04:27 +0300</pubDate>
+    <lastBuildDate>Sun, 08 Sep 2019 14:04:27 +0300</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
