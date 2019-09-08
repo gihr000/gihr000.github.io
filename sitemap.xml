@@ -63,57 +63,57 @@
 	</url>  
 	<url>
 		<loc>http://onlinecorpus.com/bg</loc>
-		<lastmod>2019-04-17T17:50:31+00:00</lastmod>
+		<lastmod>2019-09-07T17:50:31+00:00</lastmod>
 		<priority>1.00</priority>
 	</url>
 	<url>
-		<loc>http://bg.onlinecorpus.com/bg/категории/</loc>
-		<lastmod>2019-04-17T17:50:31+00:00</lastmod>
+		<loc>http://onlinecorpus.com/bg/категории/</loc>
+		<lastmod>2019-09-07T17:50:31+00:00</lastmod>
 		<priority>0.80</priority>
 	</url>
 	<url>
-		<loc>http://bg.onlinecorpus.com/bg/тагове/</loc>
-		<lastmod>2019-04-17T17:50:31+00:00</lastmod>
+		<loc>http://onlinecorpus.com/bg/тагове/</loc>
+		<lastmod>2019-09-07T17:50:31+00:00</lastmod>
 		<priority>0.80</priority>
 	</url>
 	<url>
-		<loc>http://bg.onlinecorpus.com/bg/online-corpus-мисия/</loc>
-		<lastmod>2019-04-17T17:50:31+00:00</lastmod>
+		<loc>http://onlinecorpus.com/bg/online-corpus-мисия/</loc>
+		<lastmod>2019-09-07T17:50:31+00:00</lastmod>
 		<priority>0.80</priority>
 	</url>
 	<url>
-		<loc>https://bg.onlinecorpus.com/bg/всичко-за-фишинг-кампаниите/</loc>
-		<lastmod>2019-04-22T21:47:50+00:00</lastmod>
+		<loc>https://onlinecorpus.com/bg/всичко-за-фишинг-кампаниите/</loc>
+		<lastmod>2019-09-07T21:47:50+00:00</lastmod>
 		<priority>0.80</priority>
 	</url>
 	<url>
-		<loc>https://bg.onlinecorpus.com/bg/кибератаки-киберпрестъпност-фишинг-превенция/</loc>
-		<lastmod>2019-04-22T21:47:50+00:00</lastmod>
+		<loc>https://onlinecorpus.com/bg/кибератаки-киберпрестъпност-фишинг-превенция/</loc>
+		<lastmod>2019-09-07T21:47:50+00:00</lastmod>
 		<priority>0.80</priority>
 	</url>
 	<url>
-		<loc>https://bg.onlinecorpus.com/bg/как-да-различим-фишинг-имейли-от-истинските/</loc>
-		<lastmod>2019-04-23</lastmod>
+		<loc>https://onlinecorpus.com/bg/как-да-различим-фишинг-имейли-от-истинските/</loc>
+		<lastmod>2019-09-07</lastmod>
 		<priority>0.80</priority>
 	</url>  
 	<url>
-		<loc>https://bg.onlinecorpus.com/bg/спиър-фишинг-атаки/</loc>
-		<lastmod>2019-04-23T21:13:50+00:00</lastmod>
+		<loc>https://onlinecorpus.com/bg/спиър-фишинг-атаки/</loc>
+		<lastmod>2019-09-07T21:13:50+00:00</lastmod>
 		<priority>0.80</priority>
 	</url>  
 	<url>
-		<loc>http://bg.onlinecorpus.com/bg/как-хакери-ни-карат-да-отваряме-фишинг-имейли/</loc>
-		<lastmod>2019-04-24T11:13:50+00:00</lastmod>
+		<loc>http://onlinecorpus.com/bg/как-хакери-ни-карат-да-отваряме-фишинг-имейли/</loc>
+		<lastmod>2019-09-07T11:13:50+00:00</lastmod>
 		<priority>0.80</priority>
 	</url>  
 		<url>
-		<loc>http://bg.onlinecorpus.com/bg/email-protector/</loc>
-		<lastmod>2019-04-25T12:14:50+00:00</lastmod>
+		<loc>http://onlinecorpus.com/bg/email-protector/</loc>
+		<lastmod>2019-09-07T12:14:50+00:00</lastmod>
 		<priority>0.80</priority>
 	</url> 
 	<url>
-		<loc>http://bg.onlinecorpus.com/bg/уейлинг-атаки/</loc>
-		<lastmod>2019-04-25T12:13:50+00:00</lastmod>
+		<loc>http://onlinecorpus.com/bg/уейлинг-атаки/</loc>
+		<lastmod>2019-09-07T12:13:50+00:00</lastmod>
 		<priority>0.80</priority>
 	</url>  
 </urlset>
