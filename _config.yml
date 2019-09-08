@@ -1,7 +1,7 @@
 # Site
 name: "Online Corpus"
 title: "Cyber email protection against phishing and hackers"
-description: "Online Corpus is a company that helps you mitigate man in the middle and business email compromise attacks, spear phishing and whaling. We deliver cyber security trainings and cyber protection software that keeps cyber criminals away from you."
+description: "Online Corpus delivers cyber security trainings and cyber protection software that keeps criminals away from your email."
 logo: 'assets/images/logo-small.png'
 favicon: 'assets/images/logo-small.png'
 baseurl: 
