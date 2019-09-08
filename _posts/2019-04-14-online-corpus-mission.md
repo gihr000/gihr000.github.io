@@ -10,7 +10,8 @@ social-article-url: https://onlinecorpus.com/2019/04/14/online-corpus-mission
 social-article-title: The mission of Online Corpus
 social-article-image: https://onlinecorpus.com/img/cybercrime-hacking-income.jpg
 social-article-type: article
-image: assets/images/cybercrime-hacking-income.jpg     
+image: assets/images/cybercrime-hacking-income.jpg
+description: Our mission is to integrate a cross-platform email security solution that will aid you in your day-to-day tasks and will keep hackers away from your inbox.     
 ---
 
 <h2 itemprop="articleSection" class="h2-heading">War against cyber criminals - Online Corpus key values</h2>  

@@ -6,6 +6,7 @@ categories: phishing cybercrime email
 tags: phishing email data privacy
 author: georgi
 image: assets/images/click-on-phishing-emails.jpg
+description: When you click on phishing emails, you reveal a lot of information about yourself.
 ---
 
 The noble art of hacking is all about psychology. If you leave the technical aspect aside, the one thing that gets most people is the false sense of security, overconfidence and trust. Yeah, people trust people they haven’t even seen in their life. That’s what the 21. Century is all about.

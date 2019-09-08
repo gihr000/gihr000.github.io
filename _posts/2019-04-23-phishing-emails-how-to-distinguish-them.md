@@ -6,6 +6,7 @@ categories: phishing cybercrime email
 tags: phishing email data privacy
 author: georgi
 image: assets/images/phishing-emails-distinguish.jpg
+description: Upon close investigation, you can see the differences between real email and phishing emails. Email Protector helps you do that faster.
 ---
 
 If you own a company or work for one, you know how business is organized – everything is happening via email. Meetings and discussions are just a small and harmless fraction of all emails that you receive. Well, what about invoices then? Are you aware that cyber criminals are sending fake invoices to companies and individuals? The amount of money they generate via this amazingly simple method is astonishing. If you want to learn more about this kind of cyber attack, I’d advise you to firstly read the articles about <a title="Spear phishing and whaling article" href="https://onlinecorpus.com/2019/04/23/spear-phishing-attacks/">spear phishing and whaling.</a> They’ll give you a really nice introduction to this article.

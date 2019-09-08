@@ -5,7 +5,8 @@ title:  "Everything you should know about phishing campaigns"
 categories: phishing cybercrime
 tags: phishing campaign data privacy
 author: georgi
-image: assets/images/phishing-campaign-criminal.jpg   
+image: assets/images/phishing-campaign-criminal.jpg
+description: Phishing campaigns are mostly launched at random, but are easily mitigated with our Chrome Extension - Email Protector
 ---
 
 Real hackers plan every single step very carefully. What's the trick, you'll ask? Well, experience and common knowledge go hand in hand. And since hackers usually specialize at one area at a time, it's really hard to know when one's knowledge is sufficient enough and skills are technically advanced enough to conduct such an attack. Usually 95% of all spammers are just skids (script-kiddies are wannabe hackers with insuficient programming and systems knowledge). Yes, it may happen so that they catch a fish or two, but the really malicious actors are the one preparing months before a big hit.

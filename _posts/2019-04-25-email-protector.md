@@ -6,6 +6,7 @@ categories: email-protector email
 tags: email-protector email
 author: georgi
 image: assets/images/email-protector-banner-hackers-away.jpg
+description: Email Protector is a Chrome Browser extension that helps you mitigate man in the middle, man in the email, as well as phishing and whaling attacks.
 ---
 
 As we’ve already mentioned and discussed <a title="What is phishing" href="https://onlinecorpus.com/2019/04/22/cyber-attacks-and-cybercrime-preventing-phishing/"> what phishing attacks are, <a title="Phishing campaigns" href="https://onlinecorpus.com/2019/04/23/everything-you-should-know-phishing-campaigns/"> and how are they planned in campaigns</a>, how <a title="Spear phishing" href="https://onlinecorpus.com/2019/04/23/spear-phishing-attacks/">spear-phishing</a> and <a title="Whaling attacks" href="https://onlinecorpus.com/2019/04/25/whaling-big-fish/">whaling attacks</a> rob hard-working people, just because hackers exploit the very human nature, now I want to shed some light on another problem – <b>until now there was no single tool that could help you and protect you while you access and use your email daily.</b>

@@ -7,8 +7,8 @@ tags: whaling email data privacy
 author: ivan
 image: assets/images/whaling.jpg
 featured: true
+description: Whaling consists in targeting high profile people with phishing attacks. OnlineCorpus helps you learn how to mitigate this kind of attack.
 ---
-{:toc}
 <h2 itemprop="articleSection" class="h2-heading">How do cyber criminals use whaling. What is whaling?</h2>  
 <p></p>
 

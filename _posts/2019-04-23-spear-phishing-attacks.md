@@ -6,6 +6,7 @@ categories: phishing spear-phishing
 tags: cybercrime phishing data
 author: ivan
 image: assets/images/spear-phishing-drawing.jpg
+description: Spear phishing causes million dollar losses globally. Online Corpus helps you identify potential threats and mitigate attacks with Email Protector.
 ---
 
 One of the most common methods cybercriminals use is the so called phishing – a cyber attack that is focused on getting access to one’s computer system, its passwords, also credit card data, bank accounts or other sensitive corporate information that could bring them easy money. To get this information cyber criminals are using email, social media, and any form of communication they can to gain access of and steal valuable data. You can find more about the broader term <i>phishing</i><a title="What do we need to know about phishing" href="https://onlinecorpus.com/2019/04/22/cyber-attacks-and-cybercrime-preventing-phishing/">in our previous article</a>

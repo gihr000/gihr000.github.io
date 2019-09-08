@@ -5,7 +5,8 @@ title:  "Cyber attacks and cybercrime: Preventing phishing"
 categories: phishing cybercrime
 tags: cybercrime preventing phishing data
 author: georgi
-image: assets/images/phishing-email-data-money.jpg   
+image: assets/images/phishing-email-data-money.jpg
+description: Phishing scams are easily prevented when you pay attention to the small details of an email. Use Email Protector to mitigate this kind of attack. 
 ---
 
 Phishing is without doubt the most commonly used and most preferred way to infiltrate any system. Perhaps you’ve heard of the phrase <i>“You give a poor man a fish, and you feed him for a day, you teach him to phish, you give him… you give him…”</i> – well the whole world actually. 
