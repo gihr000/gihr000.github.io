@@ -718,6 +718,10 @@ h6 {
     margin-bottom: 1rem;
 }
 
+.article-post p {
+    text-align: justify;
+}
+
 img {
     max-width: 100%;
 }
