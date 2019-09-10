@@ -1,6 +1,5 @@
 # Site
-name: "Online Corpus"
-title: "Cyber email protection against phishing and hackers"
+website-name: "Online Corpus"
 description: "Online Corpus delivers cyber security trainings and cyber protection software that keeps criminals away from your email."
 full-description: "Online Corpus is a company that helps you mitigate man in the middle and business email compromise attacks, spear phishing and whaling. We deliver cyber security trainings and cyber protection software that keeps cyber criminals away from you. The point of our website and blog is to provide you with enough knowledge, so that you will be informed about latest trends in the cyber crime world, and teach you how to stay safe."
 logo: 'assets/images/logo-small.png'
@@ -73,22 +72,3 @@ analycis-id: "139400292"
 lazyimages: "enabled"
 
 exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
-
-defaults:
-  #languages
-  -
-    scope:
-      path: ""
-    values:
-      lang: "en"
-      layout: default
-  -
-    scope:
-      path: "es"
-    values:
-      lang: "es"
-  -
-    scope:
-      path: "de"
-    values:
-      lang: "de"

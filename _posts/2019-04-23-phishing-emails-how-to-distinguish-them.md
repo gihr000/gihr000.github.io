@@ -1,7 +1,7 @@
 ---
 lang: en
 layout: post
-title:  "Distinguishing phishing emails from real emails"
+title:  "Phishing emails. What are the differences with real emails"
 categories: phishing cybercrime email
 tags: phishing email data privacy
 author: georgi

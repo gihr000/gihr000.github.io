@@ -1,21 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Cyber email protection against phishing and hackers</title>
+    <title></title>
     <description>Online Corpus delivers cyber security trainings and cyber protection software that keeps criminals away from your email.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-<<<<<<< HEAD
-    <pubDate>Tue, 10 Sep 2019 22:27:38 +0300</pubDate>
-    <lastBuildDate>Tue, 10 Sep 2019 22:27:38 +0300</lastBuildDate>
-=======
-    <pubDate>Mon, 09 Sep 2019 12:03:54 +0300</pubDate>
-    <lastBuildDate>Mon, 09 Sep 2019 12:03:54 +0300</lastBuildDate>
->>>>>>> 50052a85ac8ce005567d424c36ff92d5824cef89
+    <pubDate>Wed, 11 Sep 2019 00:17:11 +0300</pubDate>
+    <lastBuildDate>Wed, 11 Sep 2019 00:17:11 +0300</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
-        <title>Whaling - going for the big fish. What do we know about it?</title>
+        <title>What is the whaling cyber attack and how to prevent it</title>
         <description>&lt;h2 itemprop=&quot;articleSection&quot; class=&quot;h2-heading&quot;&gt;How do cyber criminals use whaling. What is whaling?&lt;/h2&gt;
 &lt;p&gt;&lt;/p&gt;
 
@@ -171,7 +166,7 @@ Check out how out extension works!&lt;/p&gt;
       </item>
     
       <item>
-        <title>Spear phishing attacks - the most dangerous form of phishing</title>
+        <title>What are spear phishing cyber attacks and how are they used</title>
         <description>&lt;p&gt;One of the most common methods cybercriminals use is the so called phishing – a cyber attack that is focused on getting access to one’s computer system, its passwords, also credit card data, bank accounts or other sensitive corporate information that could bring them easy money. To get this information cyber criminals are using email, social media, and any form of communication they can to gain access of and steal valuable data. You can find more about the broader term &lt;i&gt;phishing&lt;/i&gt;&lt;a title=&quot;What do we need to know about phishing&quot; href=&quot;https://onlinecorpus.com/2019/04/22/cyber-attacks-and-cybercrime-preventing-phishing/&quot;&gt;in our previous article&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;span itemprop=&quot;articleBody&quot;&gt;
@@ -221,7 +216,7 @@ In this way the employee has no time to react and think over the changes.&lt;/p&
       </item>
     
       <item>
-        <title>Distinguishing phishing emails from real emails</title>
+        <title>Phishing emails. What are the differences with real emails</title>
         <description>&lt;p&gt;If you own a company or work for one, you know how business is organized – everything is happening via email. Meetings and discussions are just a small and harmless fraction of all emails that you receive. Well, what about invoices then? Are you aware that cyber criminals are sending fake invoices to companies and individuals? The amount of money they generate via this amazingly simple method is astonishing. If you want to learn more about this kind of cyber attack, I’d advise you to firstly read the articles about &lt;a title=&quot;Spear phishing and whaling article&quot; href=&quot;https://onlinecorpus.com/2019/04/23/spear-phishing-attacks/&quot;&gt;spear phishing and whaling.&lt;/a&gt; They’ll give you a really nice introduction to this article.&lt;/p&gt;
 
 &lt;p&gt;&lt;span itemprop=&quot;articleBody&quot;&gt;
@@ -375,7 +370,7 @@ The links could be deceiving, the text of the hyperlink could display www.bankof
       </item>
     
       <item>
-        <title>The mission of Online Corpus</title>
+        <title>Online Corpus - keep hackers away from your email inbox</title>
         <description>&lt;h2 itemprop=&quot;articleSection&quot; class=&quot;h2-heading&quot;&gt;War against cyber criminals - Online Corpus key values&lt;/h2&gt;
 &lt;p&gt;&lt;/p&gt;
 
