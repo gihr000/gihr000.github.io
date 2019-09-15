@@ -1,7 +1,7 @@
 ---
 lang: en
 layout: post
-title:  "The mission of Online Corpus"
+title:  "Online Corpus - keep hackers away from your email inbox"
 categories: onlinecorpus
 tags: cybercrime onlinecorpus
 author: ivan

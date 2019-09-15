@@ -1,7 +1,7 @@
 ---
 lang: en
 layout: post
-title:  "Spear phishing attacks - the most dangerous form of phishing"
+title:  "What are spear phishing cyber attacks and how are they used"
 categories: phishing spear-phishing
 tags: cybercrime phishing data
 author: ivan

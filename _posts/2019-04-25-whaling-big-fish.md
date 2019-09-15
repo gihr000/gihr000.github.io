@@ -1,7 +1,7 @@
 ---
 lang: en
 layout: post
-title:  "Whaling - going for the big fish. What do we know about it?"
+title:  "What is the whaling cyber attack and how to prevent it"
 categories: whaling cybercrime
 tags: whaling email data privacy
 author: ivan
