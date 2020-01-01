@@ -194,8 +194,8 @@
 <section>
    <div class="container ">
       <div class="row ">
-         <div class="col-md-1 h-0">
-               <div class="shared sticky-top sticky-top-offset">
+         <div class="col-md-1 h-0 hidden-xs hidden-sm">
+            <div class="shared sticky-top sticky-top-offset">
       <p>
           Share
       </p>
@@ -223,11 +223,38 @@
   </div>
   
          </div>
+         <div class="col-md-16 visible-sm-block visible-xs-block">
+            <div class="col-xs-4 col-sm-4">
+               <a href="https://www.facebook.com/sharer/sharer.php?s=100&p[url]=http://www.example.com&p[images][0]=&p[title]=Title%20Goes%20Here&p[summary]=Description%20goes%20here!" 
+                  target="_blank" 
+                  onclick="window.open(this.href,'targetWindow','toolbar=no,location=0,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=250'); return false">
+                     <button type="button" class="btn btn-facebook btn-lg social-button-sm">
+                        <span class="ion-social-facebook"></button></a>
+            </div>
+            <div class="col-xs-4 col-sm-4">
+               <a href="https://twitter.com/intent/tweet?text=What is the whaling cyber attack and how to prevent it&url=https://onlinecorpus.com/whaling-big-fish/" target="_blank"
+                  onclick="window.open(this.href,'targetWindow','toolbar=no,location=0,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=250'); return false">
+                  <button type="button" class="btn btn-twitter btn-lg social-button-sm">
+                     <span class="ion-social-twitter"></span>
+                     
+                  </button>
+               </a>
+            </div>
+            <div class="col-xs-4 col-sm-4">
+               <a href="https://www.linkedin.com/sharing/share-offsite/?url=https://onlinecorpus.com/whaling-big-fish/" target="_blank"
+                  onclick="window.open(this.href,'targetWindow','toolbar=no,location=0,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=250'); return false">
+                  <button type="button" class="btn btn-linkedin btn-lg social-button-sm">
+                     <span class="ion-social-linkedin"></span>
+                  </button>
+               </a>
+            </div>
+         </div>
          <!-- left sec start -->
          <div class="col-md-10 col-sm-10">
             <div class="row">
                <div class="col-sm-16">
-                  <img class="img-thumbnail" alt="" src="/assets/images/posts/whaling.jpg" height="606px" width="1000px">
+                  <img class="img-thumbnail" alt="" src="/assets/images/posts/whaling.jpg" height="606px"
+                     width="1000px">
                </div>
                <div class="col-sm-16 sec-info">
                   <h2>Whaling consists in targeting high profile persons with extremely well crafted emails.</h2>
@@ -460,7 +487,7 @@ According to cyber security provider Smarttech 247, the number of whaling attac
                       <p> <span class="ion-social-instagram"></span> 3548
                         followers</p>
                       </a></td>
-                      <td><a class="instagram" href="https://www.linkedin.com/company/online-corpus/">
+                      <td><a class="linkedin" href="https://www.linkedin.com/company/online-corpus/">
                           <p> <span class="ion-social-linkedin"></span> 3548
                             followers</p>
                           </a></td>

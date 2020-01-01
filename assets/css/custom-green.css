@@ -1896,7 +1896,9 @@ table-bordered th, .table-bordered td {
 .pinterest:hover {
 	background: #c82128;
 }
-.instagram:hover {
+.instagram:hover { background-image: linear-gradient(to bottom, #5851db 9%, #833AB4 21%, #c13584 31%, #e1306c 41%, #fd1d1d 51%, #f56040 61%, #f77737 71%, #fcaf45 81%, #ffdc80 91%) }
+
+.linkedin:hover {
 	background: #517ea5;
 }
 .bottom-border {
@@ -2536,6 +2538,49 @@ footer .stars {
 	text-align: center;
 }
 
-.h-0 {
-	height: 1000px;
+@media screen and (min-width: 1170px) {
+	.h-0 {
+		height: 1000px;
+	}
+}
+
+.social-button-sm {
+	width:100% !important;
+	margin-top:10px !important;
+}
+
+.btn-facebook {
+	color: #fff;
+	background-color: #4C67A1;
+}
+.btn-facebook:hover {
+	color: #fff;
+	background-color: #405D9B;
+}
+.btn-facebook:focus {
+	color: #fff;
+}
+
+.btn-twitter {
+	color: #fff;
+	background-color: #45b0e3;
+}
+.btn-twitter:hover {
+	color: #fff;
+	background-color: #3da1cf;
+}
+.btn-twitter:focus {
+	color: #fff;
+}
+
+.btn-linkedin {
+	color: #fff;
+	background-color: #517ea5;
+}
+.btn-linkedin:hover {
+	color: #fff;
+	background-color: rgb(41, 115, 150);
+}
+.btn-linkedin:focus {
+	color: #fff;
 }
