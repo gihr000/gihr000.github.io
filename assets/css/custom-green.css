@@ -2584,3 +2584,7 @@ footer .stars {
 .btn-linkedin:focus {
 	color: #fff;
 }
+
+.s-sh {
+	z-index: 10000 !important;
+}
