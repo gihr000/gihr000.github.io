@@ -6,7 +6,6 @@ exportDir=$baseDir'/_site/assets/js'
 
 cd $exportDir && echo 'Removing everyting from directory:' $exportDir && rm *.js;
 cd $projectDir
-echo 'Currently in ' $projectDir;
 for file in *.js;
 do short=${file%.js};
 echo 'Writing to ' $exportDir/$short.js
