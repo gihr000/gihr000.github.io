@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://onlinecorpus.com/7-tips-for-maximizing-soc/</loc>
-<lastmod>2019-01-03T00:00:00+02:00</lastmod>
-</url>
-<url>
 <loc>https://onlinecorpus.com/online-corpus-mission/</loc>
 <lastmod>2019-04-14T00:00:00+03:00</lastmod>
 </url>
@@ -39,6 +35,14 @@
 <url>
 <loc>https://onlinecorpus.com/nation-hacked/</loc>
 <lastmod>2019-07-23T00:00:00+03:00</lastmod>
+</url>
+<url>
+<loc>https://onlinecorpus.com/7-tips-for-maximizing-soc/</loc>
+<lastmod>2020-01-03T00:00:00+02:00</lastmod>
+</url>
+<url>
+<loc>https://onlinecorpus.com/sextortion-emails-gandcrab-ransomware/</loc>
+<lastmod>2020-01-04T00:00:00+02:00</lastmod>
 </url>
 <url>
 <loc>https://onlinecorpus.com/advertise</loc>
