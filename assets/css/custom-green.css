@@ -2586,3 +2586,6 @@ footer .stars {
 .btn-linkedin:focus {
 	color: #fff;
 }
+.center {
+	text-align: center;
+}
